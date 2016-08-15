@@ -1,0 +1,491 @@
+school,program,program_category,degree,degree_category,state,city,square_miles,population,density,average_winter,average_summer,latitude,longitude,link,date_collected
+Auburn University,Statistics,Statistics,MS,Master,Alabama,Auburn,58.07,60258,1038,53.4,78.8,32.6005063,-85.4864026,http://www.auburn.edu/cosam/departments/math/,2016-04
+Auburn University,Statistics,Statistics,PhD,Doctorate,Alabama,Auburn,58.07,60258,1038,53.4,78.8,32.6005063,-85.4864026,http://www.auburn.edu/cosam/departments/math/,2016-04
+University of Alabama,Applied Statistics,Statistics,MS,Master,Alabama,Tuscaloosa,70.31,96122,1367,53.5,80.2,33.2118844,-87.5489832,http://manderson.cba.ua.edu/,2016-04
+University of Alabama,Applied Statistics,Statistics,PhD,Doctorate,Alabama,Tuscaloosa,70.31,96122,1367,53.5,80.2,33.2118844,-87.5489832,http://manderson.cba.ua.edu/,2016-04
+University of Alabama at Birmingham,Biostatistics,Biostatistics,MPH,Master,Alabama,Birmingham,148.6,212247,1428,52.6,79.4,33.5019426,-86.8038769,http://www.soph.uab.edu/bst,2016-04
+University of Alabama at Birmingham,Biostatistics,Biostatistics,MS,Master,Alabama,Birmingham,148.6,212247,1428,52.6,79.4,33.5019426,-86.8038769,http://www.soph.uab.edu/bst,2016-04
+University of Alabama at Birmingham,Biostatistics,Biostatistics,PhD,Doctorate,Alabama,Birmingham,148.6,212247,1428,52.6,79.4,33.5019426,-86.8038769,http://www.soph.uab.edu/bst,2016-04
+University of Alaska Fairbanks,Statistics,Statistics,MS,Master,Alaska,Fairbanks,32.66,32469,994,4.5,59.7,64.8570885,-147.8256306,https://www.uaf.edu/dms/,2016-04
+Arizona State University,Statistics,Statistics,MS,Master,Arizona,Tempe,39.5,172816,4375,62.7,92.4,33.4205747,-111.9323705,https://math.asu.edu/,2016-04
+Arizona State University,Statistics,Statistics,PhD,Doctorate,Arizona,Tempe,39.5,172816,4375,62.7,92.4,33.4205747,-111.9323705,https://math.asu.edu/,2016-04
+Northern Arizona University,Statistics,Statistics,MS,Master,Arizona,Flagstaff,63.86,68785,1077,35.8,62.5,35.1907322,-111.6562031,http://nau.edu/cefns/natsci/math/,2016-04
+University of Arizona,Biostatistics,Biostatistics,MPH,Master,Arizona,Tucson,226.7,527972,2329,58.7,85.3,32.2384329,-110.9459314,https://publichealth.arizona.edu/departments/epi-bio/biostatistics,2016-04
+University of Arizona,Biostatistics,Biostatistics,MS,Master,Arizona,Tucson,226.7,527972,2329,58.7,85.3,32.2384329,-110.9459314,https://publichealth.arizona.edu/departments/epi-bio/biostatistics,2016-04
+University of Arizona,Biostatistics,Biostatistics,PhD,Doctorate,Arizona,Tucson,226.7,527972,2329,58.7,85.3,32.2384329,-110.9459314,https://publichealth.arizona.edu/departments/epi-bio/biostatistics,2016-04
+University of Arizona,Statistics,Statistics,MS,Master,Arizona,Tucson,226.7,527972,2329,58.7,85.3,32.2293345,-110.953155,http://stat.arizona.edu/,2016-04
+University of Arizona,Statistics,Statistics,PhD,Doctorate,Arizona,Tucson,226.7,527972,2329,58.7,85.3,32.2293345,-110.953155,http://stat.arizona.edu/,2016-04
+Arkansas State University,Mathematics with Statistics Concentration,Statistics,MS,Master,Arkansas,Jonesboro,79.31,72210,910,47.3,78.9,35.8411131,-90.6777868,http://www.astate.edu/college/sciences-and-mathematics/departments/math-statistics/,2016-04
+University of Arkansas,Statistics and Analytics,Statistics,MS,Master,Arkansas,Fayetteville,43.44,80621,1856,44.4,74.8,36.0669823,-94.1723739,http://fulbright.uark.edu/departments/math/,2016-04
+University of Arkansas,Math with Statistics Concentration,Statistics,PhD,Doctorate,Arkansas,Fayetteville,43.44,80621,1856,44.4,74.8,36.0669823,-94.1723739,http://fulbright.uark.edu/departments/math/,2016-04
+University of Arkansas at Little Rock,Mathematical Sciences Statistics Track,Statistics,MS,Master,Arkansas,Little Rock,116.8,197706,1693,50.5,81.1,34.7243274,-92.341026,http://ualr.edu/mathematics/,2016-04
+University of Arkansas for Medical Sciences,Biostatistics,Biostatistics,MPH,Master,Arkansas,Little Rock,116.8,197706,1693,50.5,81.1,34.749924,-92.3208994,http://biostatistics.uams.edu/,2016-04
+California Institute of Technology,Computing and Mathematical Sciences,Statistics,PhD,Doctorate,California,Pasadena,23.13,140881,6091,60.3,73.3,34.1397526,-118.1237912,http://www.cms.caltech.edu/,2016-04
+"California State University, East Bay",Biostatistics,Biostatistics,MS,Master,California,Hayward,63.74,158985,2494,53,63.1,37.6563893,-122.0541278,http://www.csueastbay.edu/csci/departments/statistics/,2016-04
+"California State University, East Bay",Statistics,Statistics,MS,Master,California,Hayward,63.74,158985,2494,53,63.1,37.6563893,-122.0541278,http://www.csueastbay.edu/csci/departments/statistics/,2016-04
+"California State University, Long Beach",Applied Statistics,Statistics,MS,Master,California,Long Beach,51.44,473577,9206,60.7,71.5,33.7791331,-118.1136838,http://web.csulb.edu/depts/math/,2016-04
+San Diego State University,Biostatistics,Biostatistics,MS,Master,California,San Diego,372.4,1381069,3709,64.4,68.7,32.7767679,-117.0692731,http://www.math.sdsu.edu/,2016-04
+San Diego State University,Statistics,Statistics,MS,Master,California,San Diego,372.4,1381069,3709,64.4,68.7,32.7767679,-117.0692731,http://www.math.sdsu.edu/,2016-04
+San Diego State University,Computational Statistics,Statistics,PhD,Doctorate,California,San Diego,372.4,1381069,3709,64.4,68.7,32.7767679,-117.0692731,http://www.csrc.sdsu.edu/Compstat/,2016-04
+San Jose State University,Statistics,Statistics,MS,Master,California,San Jose,180,1015785,5643,56.4,69.7,37.3334534,-121.8817315,http://www.sjsu.edu/statistics/,2016-04
+Stanford University,Statistics with Emphasis in Biostatistics,Biostatistics,PhD,Doctorate,California,Stanford,2.77,13809,4985,53.2,68.3,37.4289774,-122.1721409,https://statistics.stanford.edu,2016-04
+Stanford University,Statistics,Statistics,MS,Master,California,Stanford,2.77,13809,4985,53.2,68.3,37.4289774,-122.1721409,https://statistics.stanford.edu,2016-04
+Stanford University,Statistics,Statistics,PhD,Doctorate,California,Stanford,2.77,13809,4985,53.2,68.3,37.4289774,-122.1721409,https://statistics.stanford.edu,2016-04
+"University of California, Berkeley",Biostatistics,Biostatistics,MA,Master,California,Berkeley,17.7,118853,6715,55.8,64.1,37.8737118,-122.2610484,http://www.stat.berkeley.edu/biostat/,2016-04
+"University of California, Berkeley",Biostatistics,Biostatistics,PhD,Doctorate,California,Berkeley,17.7,118853,6715,55.8,64.1,37.8737118,-122.2610484,http://www.stat.berkeley.edu/biostat/,2016-04
+"University of California, Berkeley",Statistics,Statistics,MA,Master,California,Berkeley,17.7,118853,6715,55.8,64.1,37.8736017,-122.2578563,http://statistics.berkeley.edu/,2016-04
+"University of California, Berkeley",Statistics,Statistics,PhD,Doctorate,California,Berkeley,17.7,118853,6715,55.8,64.1,37.8736017,-122.2578563,http://statistics.berkeley.edu/,2016-04
+"University of California, Davis",Biostatistics,Biostatistics,MS,Master,California,Davis,9.9,66742,6742,53.5,75.6,38.5358541,-121.752626,http://biostat.ucdavis.edu/,2016-04
+"University of California, Davis",Biostatistics,Biostatistics,PhD,Doctorate,California,Davis,9.9,66742,6742,53.5,75.6,38.5358541,-121.752626,http://biostat.ucdavis.edu/,2016-04
+"University of California, Davis",Statistics,Statistics,MS,Master,California,Davis,9.9,66742,6742,53.5,75.6,38.5358541,-121.752626,http://www.stat.ucdavis.edu/,2016-04
+"University of California, Davis",Statistics,Statistics,PhD,Doctorate,California,Davis,9.9,66742,6742,53.5,75.6,38.5358541,-121.752626,http://www.stat.ucdavis.edu/,2016-04
+"University of California, Irvine",Statistics,Statistics,MS,Master,California,Irvine,66.45,248531,3740,59.3,69.8,33.6432991,-117.8419876,http://www.stat.uci.edu/,2016-04
+"University of California, Irvine",Statistics,Statistics,PhD,Doctorate,California,Irvine,66.45,248531,3740,59.3,69.8,33.6432991,-117.8419876,http://www.stat.uci.edu/,2016-04
+"University of California, Los Angeles",Biostatistics,Biostatistics,MPH,Master,California,Los Angeles,503,3928864,7811,61.8,71.6,34.0668026,-118.4436907,https://www.biostat.ucla.edu/,2016-04
+"University of California, Los Angeles",Biostatistics,Biostatistics,MS,Master,California,Los Angeles,503,3928864,7811,61.8,71.6,34.0668026,-118.4436907,https://www.biostat.ucla.edu/,2016-04
+"University of California, Los Angeles",Biostatistics,Biostatistics,PhD,Doctorate,California,Los Angeles,503,3928864,7811,61.8,71.6,34.0668026,-118.4436907,https://www.biostat.ucla.edu/,2016-04
+"University of California, Los Angeles",Statistics,Statistics,MS,Master,California,Los Angeles,503,3928864,7811,61.8,71.6,34.0695821,-118.4427975,http://statistics.ucla.edu/,2016-04
+"University of California, Los Angeles",Statistics,Statistics,PhD,Doctorate,California,Los Angeles,503,3928864,7811,61.8,71.6,34.0695821,-118.4427975,http://statistics.ucla.edu/,2016-04
+"University of California, Riverside",Statistics,Statistics,MS,Master,California,Riverside,81.44,319504,3923,59.3,75.6,33.9712577,-117.3284769,http://statistics.ucr.edu/,2016-04
+"University of California, Riverside",Statistics,Statistics,PhD,Doctorate,California,Riverside,81.44,319504,3923,59.3,75.6,33.9712577,-117.3284769,http://statistics.ucr.edu/,2016-04
+"University of California, San Diego",Biostatistics,Biostatistics,PhD,Doctorate,California,San Diego,372.4,1381069,3709,64.4,68.7,32.8782951,-117.222888,http://biostat.ucsd.edu/,2016-04
+"University of California, San Diego",Statistics,Statistics,MS,Master,California,San Diego,372.4,1381069,3709,64.4,68.7,32.8790371,-117.2411406,https://math.ucsd.edu/,2016-04
+"University of California, San Diego",Mathematics with Statistics Concentration,Statistics,PhD,Doctorate,California,San Diego,372.4,1381069,3709,64.4,68.7,32.8790371,-117.2411406,https://math.ucsd.edu/,2016-04
+"University of California, San Francisco",Epidemiology and Biostatistics,Biostatistics,PhD,Doctorate,California,San Francisco,46.87,852469,18188,57.5,64.5,37.7674648,-122.3904991,http://epibiostat.ucsf.edu/,2016-04
+"University of California, Santa Barbara",Statistics,Statistics,MA,Master,California,Santa Barbara,41.97,91196,2173,55.5,64.2,34.4137314,-119.8475826,http://www.pstat.ucsb.edu/,2016-04
+"University of California, Santa Barbara",Statistics,Statistics,PhD,Doctorate,California,Santa Barbara,41.97,91196,2173,55.5,64.2,34.4137314,-119.8475826,http://www.pstat.ucsb.edu/,2016-04
+"University of California, Santa Cruz",Statistics and Applied Mathematics,Statistics,MS,Master,California,Santa Cruz,15.83,63364,4003,53.5,62.5,37.0004316,-122.0635115,https://www.soe.ucsc.edu/departments/applied-mathematics-statistics,2016-04
+"University of California, Santa Cruz",Statistics and Applied Mathematics,Statistics,PhD,Doctorate,California,Santa Cruz,15.83,63364,4003,53.5,62.5,37.0004316,-122.0635115,https://www.soe.ucsc.edu/departments/applied-mathematics-statistics,2016-04
+University of Southern California,Biostatistics,Biostatistics,MS,Master,California,Los Angeles,503,3928864,7811,61.8,71.6,34.0656223,-118.1972069,https://biostatepi.usc.edu/,2016-04
+University of Southern California,Biostatistics,Biostatistics,PhD,Doctorate,California,Los Angeles,503,3928864,7811,61.8,71.6,34.0656223,-118.1972069,https://biostatepi.usc.edu/,2016-04
+University of Southern California,Statistics,Statistics,MS,Master,California,Los Angeles,503,3928864,7811,61.8,71.6,34.0225014,-118.2910466,http://dornsife.usc.edu/mathematics/,2016-04
+University of Southern California,Statistics,Statistics,PhD,Doctorate,California,Los Angeles,503,3928864,7811,61.8,71.6,34.0191761,-118.2855928,https://www.marshall.usc.edu/phd/fields/statistics,2016-04
+Colorado School of Mines,Statistics,Statistics,MS,Master,Colorado,Golden,9,20201,2245,38.5,68.9,39.7548569,-105.221563,http://ams.mines.edu/,2016-04
+Colorado School of Mines,Statistics,Statistics,PhD,Doctorate,Colorado,Golden,9,20201,2245,38.5,68.9,39.7548569,-105.221563,http://ams.mines.edu/,2016-04
+Colorado State University,Statistics,Statistics,MS,Master,Colorado,Fort Collins,47.1,156480,3322,34.7,67.4,40.5756565,-105.081889,http://www.stat.colostate.edu/,2016-04
+Colorado State University,Statistics,Statistics,PhD,Doctorate,Colorado,Fort Collins,47.1,156480,3322,34.7,67.4,40.5756565,-105.081889,http://www.stat.colostate.edu/,2016-04
+University of Colorado Denver,Applied Biostatistics,Biostatistics,MPH,Master,Colorado,Denver,155,663862,4283,37.5,70.2,39.7451883,-104.8377104,http://www.ucdenver.edu/academics/colleges/PublicHealth/Academics/departments/Biostatistics/,2016-04
+University of Colorado Denver,Biostatistics,Biostatistics,MS,Master,Colorado,Denver,155,663862,4283,37.5,70.2,39.7451883,-104.8377104,http://www.ucdenver.edu/academics/colleges/PublicHealth/Academics/departments/Biostatistics/,2016-04
+University of Colorado Denver,Biostatistics,Biostatistics,PhD,Doctorate,Colorado,Denver,155,663862,4283,37.5,70.2,39.7451883,-104.8377104,http://www.ucdenver.edu/academics/colleges/PublicHealth/Academics/departments/Biostatistics/,2016-04
+University of Denver,Research Methods and Statistics,Statistics,MS,Master,Colorado,Denver,155,663862,4283,37.5,70.2,39.6787907,-104.9645939,http://morgridge.du.edu/programs/research-methods-and-statistics/,2016-04
+University of Denver,Research Methods and Statistics,Statistics,PhD,Doctorate,Colorado,Denver,155,663862,4283,37.5,70.2,39.6787907,-104.9645939,http://morgridge.du.edu/programs/research-methods-and-statistics/,2016-04
+University of Connecticut,Biostatistics,Biostatistics,MS,Master,Connecticut,Storrs,45.5,25977,571,38.7,68.9,41.8103391,-72.2512266,http://stat.uconn.edu/,2016-04
+University of Connecticut,Statistics,Statistics,MS,Master,Connecticut,Storrs,45.5,25977,571,38.7,68.9,41.8103391,-72.2512266,http://stat.uconn.edu/,2016-04
+University of Connecticut,Statistics,Statistics,PhD,Doctorate,Connecticut,Storrs,45.5,25977,571,38.7,68.9,41.8103391,-72.2512266,http://stat.uconn.edu/,2016-04
+Yale University,Biostatistics,Biostatistics,MPH,Master,Connecticut,New Haven,20.12,130282,6475,42.9,70.8,41.3037547,-72.9321516,https://publichealth.yale.edu/biostat/,2016-04
+Yale University,Biostatistics,Biostatistics,MS,Master,Connecticut,New Haven,20.12,130282,6475,42.9,70.8,41.3037547,-72.9321516,https://publichealth.yale.edu/biostat/,2016-04
+Yale University,Biostatistics,Biostatistics,PhD,Doctorate,Connecticut,New Haven,20.12,130282,6475,42.9,70.8,41.3037547,-72.9321516,https://publichealth.yale.edu/biostat/,2016-04
+Yale University,Statistics,Statistics,MA,Master,Connecticut,New Haven,20.12,130282,6475,42.9,70.8,41.3134559,-72.9241546,http://statistics.yale.edu/,2016-04
+Yale University,Statistics,Statistics,PhD,Doctorate,Connecticut,New Haven,20.12,130282,6475,42.9,70.8,41.3134559,-72.9241546,http://statistics.yale.edu/,2016-04
+University of Delaware,Statistics,Statistics,MS,Master,Delaware,Newark,8.88,33008,3717,43.9,74.1,39.665854,-75.7515098,http://canr.udel.edu/apec/,2016-04
+American University,Biostatistics,Biostatistics,MS,Master,District of Columbia,,68.34,658893,9641,47.4,77.1,38.9349541,-77.0893566,http://www.american.edu/cas/mathstat/,2016-04
+American University,Statistics,Statistics,MS,Master,District of Columbia,,68.34,658893,9641,47.4,77.1,38.9349541,-77.0893566,http://www.american.edu/cas/mathstat/,2016-04
+George Washington University,Biostatistics,Biostatistics,MS,Master,District of Columbia,,68.34,658893,9641,47.4,77.1,38.9002113,-77.0481826,https://statistics.columbian.gwu.edu/,2016-04
+George Washington University,Statistics,Statistics,MS,Master,District of Columbia,,68.34,658893,9641,47.4,77.1,38.9002113,-77.0481826,https://statistics.columbian.gwu.edu/,2016-04
+George Washington University,Statistics,Statistics,PhD,Doctorate,District of Columbia,,68.34,658893,9641,47.4,77.1,38.9002113,-77.0481826,https://statistics.columbian.gwu.edu/,2016-04
+Georgetown University,Biostatistics,Biostatistics,MS,Master,District of Columbia,,68.34,658893,9641,47.4,77.1,38.9117345,-77.075505,https://biostatistics.georgetown.edu/,2016-04
+Georgetown University,Statistics,Statistics,MS,Master,District of Columbia,,68.34,658893,9641,47.4,77.1,38.9110144,-77.0766905,https://mathstat.georgetown.edu/,2016-04
+Florida International University,Statistics,Statistics,MS,Master,Florida,Miami,55.27,430332,7786,73.8,83.4,25.7562266,-80.3747124,http://mathstat.fiu.edu/,2016-04
+Florida State University,Biostatistics,Biostatistics,MS,Master,Florida,Tallahassee,103.1,188107,1825,59.1,81.1,30.4440707,-84.300041,http://www.stat.fsu.edu/,2016-04
+Florida State University,Biostatistics,Biostatistics,PhD,Doctorate,Florida,Tallahassee,103.1,188107,1825,59.1,81.1,30.4440707,-84.300041,http://www.stat.fsu.edu/,2016-04
+Florida State University,Data Science,Statistics,MS,Master,Florida,Tallahassee,103.1,188107,1825,59.1,81.1,30.4440707,-84.300041,http://www.stat.fsu.edu/,2016-04
+Florida State University,Statistics,Statistics,MS,Master,Florida,Tallahassee,103.1,188107,1825,59.1,81.1,30.4440707,-84.300041,http://www.stat.fsu.edu/,2016-04
+Florida State University,Statistics,Statistics,PhD,Doctorate,Florida,Tallahassee,103.1,188107,1825,59.1,81.1,30.4440707,-84.300041,http://www.stat.fsu.edu/,2016-04
+University of Central Florida,Data Mining,Statistics,MS,Master,Florida,Orlando,110.7,262372,2370,67.5,83,28.6005501,-81.2001,https://statistics.cos.ucf.edu/,2016-04
+University of Central Florida,Statistical Computing,Statistics,MS,Master,Florida,Orlando,110.7,262372,2370,67.5,83,28.6005501,-81.2001,https://statistics.cos.ucf.edu/,2016-04
+University of Florida,Biostatistics,Biostatistics,MPH,Master,Florida,Gainesville,62.39,128460,2059,61.6,80.4,29.6396854,-82.3501334,http://biostat.ufl.edu/,2016-04
+University of Florida,Biostatistics,Biostatistics,MS,Master,Florida,Gainesville,62.39,128460,2059,61.6,80.4,29.6396854,-82.3501334,http://biostat.ufl.edu/,2016-04
+University of Florida,Biostatistics,Biostatistics,PhD,Doctorate,Florida,Gainesville,62.39,128460,2059,61.6,80.4,29.6396854,-82.3501334,http://biostat.ufl.edu/,2016-04
+University of Florida,Statistics,Statistics,MS,Master,Florida,Gainesville,62.39,128460,2059,61.6,80.4,29.6501016,-82.3437303,http://www.stat.ufl.edu/,2016-04
+University of Florida,Statistics,Statistics,PhD,Doctorate,Florida,Gainesville,62.39,128460,2059,61.6,80.4,29.6501016,-82.3437303,http://www.stat.ufl.edu/,2016-04
+University of Miami,Biostatistics,Biostatistics,MS,Master,Florida,Miami,55.27,430332,7786,73.8,83.4,25.7872068,-80.2129591,http://www.biostat.med.miami.edu/,2016-04
+University of Miami,Biostatistics,Biostatistics,PhD,Doctorate,Florida,Miami,55.27,430332,7786,73.8,83.4,25.7872068,-80.2129591,http://www.biostat.med.miami.edu/,2016-04
+University of Northern Florida,Mathematical Sciences Statistics Track,Statistics,MS,Master,Florida,Jacksonville,885,853382,964,60.6,81,30.2675444,-81.5073144,https://www.unf.edu/coas/math-stat/,2016-04
+University of South Florida,Biostatistics,Biostatistics,MPH,Master,Florida,Tampa,170.6,358699,2103,68.1,82.6,28.0672791,-82.4248222,http://health.usf.edu/publichealth/epb/,2016-04
+University of South Florida,Biostatistics,Biostatistics,MSPH,Master,Florida,Tampa,170.6,358699,2103,68.1,82.6,28.0672791,-82.4248222,http://health.usf.edu/publichealth/epb/,2016-04
+University of South Florida,Biostatistics,Biostatistics,PhD,Doctorate,Florida,Tampa,170.6,358699,2103,68.1,82.6,28.0672791,-82.4248222,http://health.usf.edu/publichealth/epb/,2016-04
+University of South Florida,Statistics,Statistics,MA,Master,Florida,Tampa,170.6,358699,2103,68.1,82.6,28.0597709,-82.4148356,http://www.math.usf.edu/grad/stats/,2016-04
+University of South Florida,Statistics,Statistics,PhD,Doctorate,Florida,Tampa,170.6,358699,2103,68.1,82.6,28.0597709,-82.4148356,http://www.math.usf.edu/grad/stats/,2016-04
+University of West Florida,Mathematical Sciences Statistics Track,Statistics,MS,Master,Florida,Pensacola,40.7,53068,1304,59.4,80.8,30.5470516,-87.2167397,http://uwf.edu/cse/departments/mathematics-and-statistics/,2016-04
+Emory University,Biostatistics,Biostatistics,MPH,Master,Georgia,Atlanta,134,456002,3403,52.2,78.7,33.7975666,-84.3234332,http://sph.emory.edu/departments/bios/,2016-04
+Emory University,Computer Science with Biostatistics Concentration,Biostatistics,MS,Master,Georgia,Atlanta,134,456002,3403,52.2,78.7,33.7901952,-84.3265526,http://www.mathcs.emory.edu/index.php,2016-04
+Emory University,Biostatistics,Biostatistics,MSPH,Master,Georgia,Atlanta,134,456002,3403,52.2,78.7,33.7975666,-84.3234332,http://sph.emory.edu/departments/bios/,2016-04
+Emory University,Biostatistics,Biostatistics,PhD,Doctorate,Georgia,Atlanta,134,456002,3403,52.2,78.7,33.7975666,-84.3234332,http://sph.emory.edu/departments/bios/,2016-04
+Emory University,Computer Science with Data Science Concentration,Statistics,MS,Master,Georgia,Atlanta,134,456002,3403,52.2,78.7,33.7901952,-84.3265526,http://www.mathcs.emory.edu/index.php,2016-04
+Georgia Institute of Technology,Bioinformatics,Biostatistics,PhD,Doctorate,Georgia,Atlanta,134,456002,3403,52.2,78.7,33.7736024,-84.3959246,https://www.math.gatech.edu/,2016-04
+Georgia Institute of Technology,Quantitative Biosciences,Biostatistics,PhD,Doctorate,Georgia,Atlanta,134,456002,3403,52.2,78.7,33.7736024,-84.3959246,https://www.math.gatech.edu/,2016-04
+Georgia Institute of Technology,Statistics,Statistics,MS,Master,Georgia,Atlanta,134,456002,3403,52.2,78.7,33.7736024,-84.3959246,https://www.math.gatech.edu/,2016-04
+Georgia Institute of Technology,"Algorithms, Combinatorics, and Optimization",Statistics,PhD,Doctorate,Georgia,Atlanta,134,456002,3403,52.2,78.7,33.7736024,-84.3959246,https://www.math.gatech.edu/,2016-04
+Georgia Institute of Technology,Computational Sciences and Engineering,Statistics,PhD,Doctorate,Georgia,Atlanta,134,456002,3403,52.2,78.7,33.7736024,-84.3959246,https://www.math.gatech.edu/,2016-04
+Georgia Southern University,Biostatistics,Biostatistics,MPH,Master,Georgia,Statesboro,13.86,30367,2191,54,79.8,32.4261903,-81.7857023,http://jphcoph.georgiasouthern.edu/degrees/mph/concentrations/mph-biostatistics/,2016-04
+Georgia State University,Biostatistics,Biostatistics,MPH,Master,Georgia,Atlanta,134,456002,3403,52.2,78.7,33.7542407,-84.3890168,http://publichealth.gsu.edu/academic/divisions/epidemiology-biostatistics/,2016-04
+Georgia State University,Mathematics with Biostatistics Concentration,Biostatistics,MS,Master,Georgia,Atlanta,134,456002,3403,52.2,78.7,33.7535114,-84.3890007,http://mathstat.gsu.edu/,2016-04
+Georgia State University,Mathematics with Biostatistics Concentration,Biostatistics,PhD,Doctorate,Georgia,Atlanta,134,456002,3403,52.2,78.7,33.7535114,-84.3890007,http://mathstat.gsu.edu/,2016-04
+Georgia State University,Mathematics with Statistics Concentration,Statistics,MS,Master,Georgia,Atlanta,134,456002,3403,52.2,78.7,33.7535114,-84.3890007,http://mathstat.gsu.edu/,2016-04
+Kennesaw State University,Applied Statistics,Statistics,MS,Master,Georgia,Kennesaw,9.54,32400,3396,49.9,74.8,34.0359681,-84.5835815,http://csm.kennesaw.edu/statistics/,2016-04
+Kennesaw State University,Analytics and Data Science,Statistics,PhD,Doctorate,Georgia,Kennesaw,9.54,32400,3396,49.9,74.8,34.0359681,-84.5835815,http://csm.kennesaw.edu/statistics/,2016-04
+University of Georgia,Biostatistics,Biostatistics,MS,Master,Georgia,Athens,118.2,119648,1012,51.7,78.8,33.9632936,-83.4045282,https://www.publichealth.uga.edu/epibio/,2016-04
+University of Georgia,Biostatistics,Biostatistics,PhD,Doctorate,Georgia,Athens,118.2,119648,1012,51.7,78.8,33.9632936,-83.4045282,https://www.publichealth.uga.edu/epibio/,2016-04
+University of Georgia,Statistics,Statistics,MS,Master,Georgia,Athens,118.2,119648,1012,51.7,78.8,33.9452401,-83.3716094,http://www.stat.uga.edu/,2016-04
+University of Georgia,Statistics,Statistics,PhD,Doctorate,Georgia,Athens,118.2,119648,1012,51.7,78.8,33.9452401,-83.3716094,http://www.stat.uga.edu/,2016-04
+University of Idaho,Statistics,Statistics,MS,Master,Idaho,Moscow,6.85,24767,3616,36.1,62.3,46.728117,-117.0124123,https://www.uidaho.edu/sci/stat/,2016-04
+DePaul University,Applied Statistics,Statistics,MS,Master,Illinois,Chicago,234,2722389,11634,36.9,71,41.9241207,-87.6554892,http://csh.depaul.edu/departments/mathematical-sciences/,2016-04
+Loyola University Chicago,Applied Statistics,Statistics,MS,Master,Illinois,Chicago,234,2722389,11634,36.9,71,41.9979332,-87.6567241,http://www.luc.edu/math/,2016-04
+Northern Illinois University,Applied Probability and Statistics,Statistics,MS,Master,Illinois,DeKalb,14.81,43862,2962,34.1,69.9,41.9336388,-88.7705585,http://www.niu.edu/stat/,2016-04
+Northern Illinois University,Mathematical Sciences Statistics Track,Statistics,PhD,Doctorate,Illinois,DeKalb,14.81,43862,2962,34.1,69.9,41.9336388,-88.7705585,http://www.niu.edu/stat/,2016-04
+Northwestern University,Epidemiology and Statistics,Biostatistics,MS,Master,Illinois,Chicago,234,2722389,11634,36.9,71,41.8937706,-87.6222315,http://csh.depaul.edu/departments/mathematical-sciences/,2016-04
+Northwestern University,Statistics,Statistics,PhD,Doctorate,Illinois,Evanston,7.8,75658,9700,37,70.7,42.054169,-87.6776274,http://www.statistics.northwestern.edu/,2016-04
+University of Chicago,Statistics,Statistics,MS,Master,Illinois,Chicago,234,2722389,11634,36.9,71,41.7901025,-87.600937,https://galton.uchicago.edu/,2016-04
+University of Chicago,Statistics,Statistics,PhD,Doctorate,Illinois,Chicago,234,2722389,11634,36.9,71,41.7901025,-87.600937,https://galton.uchicago.edu/,2016-04
+University of Illinois at Chicago,Biostatistics,Biostatistics,MPH,Master,Illinois,Chicago,234,2722389,11634,36.9,71,41.8686335,-87.6675876,http://publichealth.uic.edu/epidemiology-and-biostatistics,2016-04
+University of Illinois at Chicago,Biostatistics,Biostatistics,MS,Master,Illinois,Chicago,234,2722389,11634,36.9,71,41.8686335,-87.6675876,http://publichealth.uic.edu/epidemiology-and-biostatistics,2016-04
+University of Illinois at Chicago,Biostatistics,Biostatistics,PhD,Doctorate,Illinois,Chicago,234,2722389,11634,36.9,71,41.8686335,-87.6675876,http://publichealth.uic.edu/epidemiology-and-biostatistics,2016-04
+University of Illinois at Chicago,Statistics,Statistics,MS,Master,Illinois,Chicago,234,2722389,11634,36.9,71,41.8708387,-87.6504104,https://www.math.uic.edu/graduate,2016-04
+University of Illinois at Chicago,Statistics,Statistics,PhD,Doctorate,Illinois,Chicago,234,2722389,11634,36.9,71,41.8708387,-87.6504104,https://www.math.uic.edu/graduate,2016-04
+University of Illinois at Urbana-Champaign,Applied Statistics,Statistics,MS,Master,Illinois,Champaign,22.43,84513,3768,38.5,72.5,40.1094793,-88.229275,http://www.stat.illinois.edu/,2016-04
+University of Illinois at Urbana-Champaign,Statistics,Statistics,MS,Master,Illinois,Champaign,22.43,84513,3768,38.5,72.5,40.1094793,-88.229275,http://www.stat.illinois.edu/,2016-04
+University of Illinois at Urbana-Champaign,Statistics,Statistics,PhD,Doctorate,Illinois,Champaign,22.43,84513,3768,38.5,72.5,40.1094793,-88.229275,http://www.stat.illinois.edu/,2016-04
+Ball State University,Statistics,Statistics,MAS,Master,Indiana,Muncie,27.39,70211,2563,39.4,72.2,40.1981338,-85.4114706,http://cms.bsu.edu/academics/collegesanddepartments/math/,2016-04
+Ball State University,Statistics,Statistics,MS,Master,Indiana,Muncie,27.39,70211,2563,39.4,72.2,40.1981338,-85.4114706,http://cms.bsu.edu/academics/collegesanddepartments/math/,2016-04
+Indiana University,Biostatistics,Biostatistics,MPH,Master,Indiana,Indianapolis,372,848788,2282,40.04,73.7,39.7813056,-86.1669342,http://biostat.iupui.edu/,2016-04
+Indiana University,Biostatistics,Biostatistics,MS,Master,Indiana,Indianapolis,372,848788,2282,40.04,73.7,39.7813056,-86.1669342,http://biostat.iupui.edu/,2016-04
+Indiana University,Biostatistics,Biostatistics,PhD,Doctorate,Indiana,Indianapolis,372,848788,2282,40.04,73.7,39.7813056,-86.1669342,http://biostat.iupui.edu/,2016-04
+Indiana University,Applied Statistics,Statistics,MS,Master,Indiana,Bloomington,23.36,83322,3567,40.6,72.2,39.1688791,-86.524822,http://stat.indiana.edu/,2016-04
+Indiana University,Statistics,Statistics,MS,Master,Indiana,Bloomington,23.36,83322,3567,40.6,72.2,39.1688791,-86.524822,http://stat.indiana.edu/,2016-04
+Indiana University,Statistics,Statistics,PhD,Doctorate,Indiana,Bloomington,23.36,83322,3567,40.6,72.2,39.1688791,-86.524822,http://stat.indiana.edu/,2016-04
+Purdue University,Applied Statistics,Statistics,MS,Master,Indiana,West Lafayette,7.63,32109,4208,39.7,72.8,40.4268299,-86.9163354,http://www.stat.purdue.edu/,2016-04
+Purdue University,Statistics,Statistics,MS,Master,Indiana,West Lafayette,7.63,32109,4208,39.7,72.8,40.4268299,-86.9163354,http://www.stat.purdue.edu/,2016-04
+Purdue University,Statistics,Statistics,PhD,Doctorate,Indiana,West Lafayette,7.63,32109,4208,39.7,72.8,40.4268299,-86.9163354,http://www.stat.purdue.edu/,2016-04
+University of Notre Dame,Statistics,Statistics,MS,Master,Indiana,Notre Dame,41.88,101190,2416,37.4,70.6,41.7006134,-86.2375102,http://acms.nd.edu/,2016-04
+University of Notre Dame,Statistics,Statistics,PhD,Doctorate,Indiana,Notre Dame,41.88,101190,2416,37.4,70.6,41.7006134,-86.2375102,http://acms.nd.edu/,2016-04
+Iowa State University,Statistics,Statistics,MS,Master,Iowa,Ames,24.27,63266,2607,33.6,71,42.0285432,-93.649716,http://www.stat.iastate.edu/,2016-04
+Iowa State University,Statistics,Statistics,PhD,Doctorate,Iowa,Ames,24.27,63266,2607,33.6,71,42.0285432,-93.649716,http://www.stat.iastate.edu/,2016-04
+University of Iowa,Biostatistics,Biostatistics,MS,Master,Iowa,Iowa City,25.28,73415,2904,33.7,70.8,41.664253,-91.5425807,http://www.public-health.uiowa.edu/biostat/,2016-04
+University of Iowa,Biostatistics,Biostatistics,PhD,Doctorate,Iowa,Iowa City,25.28,73415,2904,33.7,70.8,41.664253,-91.5425807,http://www.public-health.uiowa.edu/biostat/,2016-04
+University of Iowa,Quantitative Methods,Statistics,MPH,Master,Iowa,Iowa City,25.28,73415,2904,33.7,70.8,41.664253,-91.5425807,http://www.public-health.uiowa.edu/biostat/,2016-04
+University of Iowa,Statistics,Statistics,MS,Master,Iowa,Iowa City,25.28,73415,2904,33.7,70.8,41.6608044,-91.5357222,http://www.stat.uiowa.edu/,2016-04
+University of Iowa,Statistics,Statistics,PhD,Doctorate,Iowa,Iowa City,25.28,73415,2904,33.7,70.8,41.6608044,-91.5357222,http://www.stat.uiowa.edu/,2016-04
+Kansas State University,Statistics,Statistics,MS,Master,Kansas,Manhattan,18.8,56078,2983,40.4,75.6,39.1904452,-96.5793145,https://www.k-state.edu/stats/,2016-04
+Kansas State University,Statistics,Statistics,PhD,Doctorate,Kansas,Manhattan,18.8,56078,2983,40.4,75.6,39.1904452,-96.5793145,https://www.k-state.edu/stats/,2016-04
+University of Kansas,Biostatistics,Biostatistics,MS,Master,Kansas,Kansas City,128.4,149636,1165,40.8,75.8,39.0556576,-94.6114737,http://www.kumc.edu/school-of-medicine/department-of-biostatistics.html,2016-04
+University of Kansas,Biostatistics,Biostatistics,PhD,Doctorate,Kansas,Kansas City,128.4,149636,1165,40.8,75.8,39.0556576,-94.6114737,http://www.kumc.edu/school-of-medicine/department-of-biostatistics.html,2016-04
+University of Kansas,Applied Statistics and Analytics,Statistics,MS,Master,Kansas,Kansas City,128.4,149636,1165,40.8,75.8,39.0556576,-94.6114737,http://www.kumc.edu/school-of-medicine/department-of-biostatistics.html,2016-04
+Wichita State University,Mathematics with Statistics Emphasis,Statistics,MS,Master,Kansas,Wichita,163.6,388413,2374,43,77.5,37.7193864,-97.2935647,http://www.wichita.edu/math/,2016-04
+Wichita State University,Applied Mathematics with Statistics Emphasis,Statistics,PhD,Doctorate,Kansas,Wichita,163.6,388413,2374,43,77.5,37.7193864,-97.2935647,http://www.wichita.edu/math/,2016-04
+University of Kentucky,Biostatistics,Biostatistics,MS,Master,Kentucky,Lexington,285.5,310797,1089,44,74.4,38.0331665,-84.5071022,https://stat.as.uky.edu/,2016-04
+University of Kentucky,Biostatistics,Biostatistics,PhD,Doctorate,Kentucky,Lexington,285.5,310797,1089,44,74.4,38.0331665,-84.5071022,https://stat.as.uky.edu/,2016-04
+University of Kentucky,Statistics,Statistics,MS,Master,Kentucky,Lexington,285.5,310797,1089,44,74.4,38.0331665,-84.5071022,https://stat.as.uky.edu/,2016-04
+University of Kentucky,Statistics,Statistics,PhD,Doctorate,Kentucky,Lexington,285.5,310797,1089,44,74.4,38.0331665,-84.5071022,https://stat.as.uky.edu/,2016-04
+Louisiana State University,Biostatistics,Biostatistics,MPH,Master,Louisiana,New Orleans,350,384320,1098,61.3,82.3,29.9566993,-90.0836172,http://sph.lsuhsc.edu/biostatistics,2016-04
+Louisiana State University,Biostatistics,Biostatistics,MS,Master,Louisiana,New Orleans,350,384320,1098,61.3,82.3,29.9566993,-90.0836172,http://sph.lsuhsc.edu/biostatistics,2016-04
+Louisiana State University,Biostatistics,Biostatistics,PhD,Doctorate,Louisiana,New Orleans,350,384320,1098,61.3,82.3,29.9566993,-90.0836172,http://sph.lsuhsc.edu/biostatistics,2016-04
+Louisiana State University,Applied Statistics,Statistics,MS,Master,Louisiana,New Orleans,350,384320,1098,61.3,82.3,30.4123797,-91.1807312,http://www.lsu.edu/agriculture/exst/,2016-04
+Louisiana Tech University,Mathematics and Statistics,Statistics,MS,Master,Louisiana,Ruston,18.2,22301,1225,53.5,80.4,32.528298,-92.6483046,http://coes.latech.edu/mathematics-and-statistics/,2016-04
+Louisiana Tech University,Computational Analysis and Modeling,Statistics,PhD,Doctorate,Louisiana,Ruston,18.2,22301,1225,53.5,80.4,32.528298,-92.6483046,http://coes.latech.edu/cam/,2016-04
+Tulane University,Biostatistics,Biostatistics,MS,Master,Louisiana,New Orleans,350,384320,1098,61.3,82.3,29.9569247,-90.075466,http://www.sph.tulane.edu/publichealth/bio/,2016-04
+Tulane University,Biostatistics,Biostatistics,MSPH,Master,Louisiana,New Orleans,350,384320,1098,61.3,82.3,29.9569247,-90.075466,http://www.sph.tulane.edu/publichealth/bio/,2016-04
+Tulane University,Biostatistics,Biostatistics,PhD,Doctorate,Louisiana,New Orleans,350,384320,1098,61.3,82.3,29.9569247,-90.075466,http://www.sph.tulane.edu/publichealth/bio/,2016-04
+Tulane University,Statistics,Statistics,MS,Master,Louisiana,New Orleans,350,384320,1098,61.3,82.3,29.9354314,-90.1227731,http://tulane.edu/sse/math/,2016-04
+University of Louisiana at Lafayette,Mathematics with Statistics Concentration,Statistics,MS,Master,Louisiana,Lafayette,49.19,126066,2563,60.2,82.8,30.214964,-92.0205872,http://math.louisiana.edu/,2016-04
+University of Louisiana at Lafayette,Mathematics with Statistics Concentration,Statistics,PhD,Doctorate,Louisiana,Lafayette,49.19,126066,2563,60.2,82.8,30.214964,-92.0205872,http://math.louisiana.edu/,2016-04
+University of Maine,Mathematics with Statistics Track,Statistics,MA,Master,Maine,Orono,19.6,10670,544,33.3,65.6,44.9019165,-68.6667059,https://umaine.edu/mathematics/,2016-04
+University of Southern Maine,Statistics,Statistics,MS,Master,Maine,Portland,52.6,66666,1267,36.4,66.2,43.6622077,-70.2776159,https://usm.maine.edu/math,2016-04
+Johns Hopkins University,Biostatistics,Biostatistics,MHS,Master,Maryland,Baltimore,92.28,622793,6749,43.9,74.2,39.298005,-76.5905718,http://www.jhsph.edu/departments/biostatistics/,2016-04
+Johns Hopkins University,Biostatistics,Biostatistics,MS,Master,Maryland,Baltimore,92.28,622793,6749,43.9,74.2,39.298005,-76.5905718,http://www.jhsph.edu/departments/biostatistics/,2016-04
+Johns Hopkins University,Biostatistics,Biostatistics,PhD,Doctorate,Maryland,Baltimore,92.28,622793,6749,43.9,74.2,39.298005,-76.5905718,http://www.jhsph.edu/departments/biostatistics/,2016-04
+Johns Hopkins University,Applied Mathematics and Statistics,Statistics,MA,Master,Maryland,Baltimore,92.28,622793,6749,43.9,74.2,39.327192,-76.6189796,http://engineering.jhu.edu/ams,2016-04
+Johns Hopkins University,Applied Mathematics and Statistics,Statistics,MSE,Master,Maryland,Baltimore,92.28,622793,6749,43.9,74.2,39.327192,-76.6189796,http://engineering.jhu.edu/ams,2016-04
+Johns Hopkins University,Applied Mathematics and Statistics,Statistics,PhD,Doctorate,Maryland,Baltimore,92.28,622793,6749,43.9,74.2,39.327192,-76.6189796,http://engineering.jhu.edu/ams,2016-04
+University of Maryland,Biostatistics,Biostatistics,MPH,Master,Maryland,College Park,5.7,32256,5659,46.6,77.1,38.993452,-76.9431245,http://sph.umd.edu/department/epib,2016-04
+University of Maryland,Mathematical Statistics,Statistics,MA,Master,Maryland,College Park,5.7,32256,5659,46.6,77.1,38.9882968,-76.9392273,http://www-math.umd.edu/,2016-04
+University of Maryland,Mathematical Statistics,Statistics,PhD,Doctorate,Maryland,College Park,5.7,32256,5659,46.6,77.1,38.9882968,-76.9392273,http://www-math.umd.edu/,2016-04
+"University of Maryland, Baltimore County",Statistics,Statistics,MS,Master,Maryland,Baltimore,92.28,622793,6749,43.9,74.2,39.2541629,-76.7124255,http://mathstat.umbc.edu/,2016-04
+"University of Maryland, Baltimore County",Statistics,Statistics,PhD,Doctorate,Maryland,Baltimore,92.28,622793,6749,43.9,74.2,39.2541629,-76.7124255,http://mathstat.umbc.edu/,2016-04
+Boston University,Biostatistics,Biostatistics,MA,Master,Massachusetts,Boston,89.63,655884,7318,41.9,70.4,42.3331526,-71.0733667,http://www.bu.edu/sph/about/departments/biostatistics/,2016-04
+Boston University,Biostatistics,Biostatistics,PhD,Doctorate,Massachusetts,Boston,89.63,655884,7318,41.9,70.4,42.3331526,-71.0733667,http://www.bu.edu/sph/about/departments/biostatistics/,2016-04
+Boston University,Statistics,Statistics,MA,Master,Massachusetts,Boston,89.63,655884,7318,41.9,70.4,42.3490609,-71.1042501,http://www.bu.edu/stat/,2016-04
+Boston University,Statistics,Statistics,MS,Master,Massachusetts,Boston,89.63,655884,7318,41.9,70.4,42.3490609,-71.1042501,http://www.bu.edu/stat/,2016-04
+Boston University,Statistics,Statistics,PhD,Doctorate,Massachusetts,Boston,89.63,655884,7318,41.9,70.4,42.3490609,-71.1042501,http://www.bu.edu/stat/,2016-04
+Harvard University,Biostatistics,Biostatistics,MS,Master,Massachusetts,Boston,89.63,655884,7318,41.9,70.4,42.3354728,-71.1023019,http://www.hsph.harvard.edu/biostatistics/,2016-04
+Harvard University,Biostatistics,Biostatistics,PhD,Doctorate,Massachusetts,Boston,89.63,655884,7318,41.9,70.4,42.3354728,-71.1023019,http://www.hsph.harvard.edu/biostatistics/,2016-04
+Harvard University,Statistics,Statistics,MA,Master,Massachusetts,Cambridge,7.13,109694,15385,41.9,70.4,42.3762356,-71.1165464,http://statistics.fas.harvard.edu/,2016-04
+Harvard University,Statistics,Statistics,PhD,Doctorate,Massachusetts,Cambridge,7.13,109694,15385,41.9,70.4,42.3762356,-71.1165464,http://statistics.fas.harvard.edu/,2016-04
+Massachusetts Institute of Technology,Business Analytics,Statistics,MS,Master,Massachusetts,Cambridge,7.13,109694,15385,41.9,70.4,42.3610527,-71.0829471,http://statistics.mit.edu/,2016-04
+Massachusetts Institute of Technology,Electrical Engineering & Computer Science,Statistics,MS,Master,Massachusetts,Cambridge,7.13,109694,15385,41.9,70.4,42.3608581,-71.0927251,http://statistics.mit.edu/,2016-04
+Massachusetts Institute of Technology,Operations Research,Statistics,MS,Master,Massachusetts,Cambridge,7.13,109694,15385,41.9,70.4,42.3611371,-71.0848562,http://statistics.mit.edu/,2016-04
+Massachusetts Institute of Technology,Electrical Engineering & Computer Science,Statistics,PhD,Doctorate,Massachusetts,Cambridge,7.13,109694,15385,41.9,70.4,42.3608581,-71.0927251,http://statistics.mit.edu/,2016-04
+Massachusetts Institute of Technology,Operations Research,Statistics,PhD,Doctorate,Massachusetts,Cambridge,7.13,109694,15385,41.9,70.4,42.3611371,-71.0848562,http://statistics.mit.edu/,2016-04
+Northeastern University,Mathematics with Statistics Track,Statistics,PhD,Doctorate,Massachusetts,Boston,89.63,655884,7318,41.9,70.4,42.3383389,-71.0907964,http://www.northeastern.edu/cos/mathematics/,2016-04
+Tufts University,Epidemiology and Biostatistics,Biostatistics,MPH,Master,Massachusetts,Boston,89.63,655884,7318,41.9,70.4,42.3499847,-71.0615547,http://publichealth.tufts.edu/Academics/Public-Health-Program/MPH-and-Combined-Degree-Programs/MPH-Concentrations/Epio-Bio,2016-04
+University of Massachusetts Amherst,Biostatistics,Biostatistics,MPH,Master,Massachusetts,Amherst,27.8,39774,1431,36,67.2,42.3944404,-72.5260786,http://www.umass.edu/sphhs/biostatistics,2016-04
+University of Massachusetts Amherst,Biostatistics,Biostatistics,MS,Master,Massachusetts,Amherst,27.8,39774,1431,36,67.2,42.3944404,-72.5260786,http://www.umass.edu/sphhs/biostatistics,2016-04
+University of Massachusetts Amherst,Biostatistics,Biostatistics,PhD,Doctorate,Massachusetts,Amherst,27.8,39774,1431,36,67.2,42.3944404,-72.5260786,http://www.umass.edu/sphhs/biostatistics,2016-04
+University of Massachusetts Amherst,Statistics,Statistics,MS,Master,Massachusetts,Amherst,27.8,39774,1431,36,67.2,42.3938996,-72.5276423,https://www.math.umass.edu/,2016-04
+University of Massachusetts Amherst,Statistics,Statistics,PhD,Doctorate,Massachusetts,Amherst,27.8,39774,1431,36,67.2,42.3938996,-72.5276423,https://www.math.umass.edu/,2016-04
+University of Massachusetts Dartmouth,Data Science,Statistics,MS,Master,Massachusetts,Dartmouth,97.53,34415,353,40.4,68.5,41.6303013,-71.0057031,http://www.umassd.edu/cas/math/,2016-04
+Worcester Polytechnic Institute,Applied Statistics,Statistics,MS,Master,Massachusetts,Worcester,38.61,183016,4740,37.2,67.5,42.2738882,-71.8076772,https://www.wpi.edu/academics/math.html,2016-04
+Worcester Polytechnic Institute,Data Science,Statistics,MS,Master,Massachusetts,Worcester,38.61,183016,4740,37.2,67.5,42.2750151,-71.8064374,http://www.wpi.edu/academics/datascience.html,2016-04
+Worcester Polytechnic Institute,Data Science,Statistics,PhD,Doctorate,Massachusetts,Worcester,38.61,183016,4740,37.2,67.5,42.2750151,-71.8064374,http://www.wpi.edu/academics/datascience.html,2016-04
+Eastern Michigan University,Applied Statistics,Statistics,MA,Master,Michigan,Ypsilanti,4.52,19621,4341,36.6,69.6,42.2496292,-83.622584,http://www.emich.edu/math/,2016-04
+Grand Valley State University,Biostatistics,Biostatistics,MS,Master,Michigan,Allendale,23.71,21655,913,39.2,70.2,42.9666233,-85.8862598,http://www.gvsu.edu/grad/biostats/,2016-04
+Grand Valley State University,Biostatistics,Biostatistics,PSM,Master,Michigan,Allendale,23.71,21655,913,39.2,70.2,42.9666233,-85.8862598,http://www.gvsu.edu/grad/biostats/,2016-04
+Michigan State University,Biostatistics,Biostatistics,MS,Master,Michigan,Lansing,36.7,109870,2994,36.7,69.3,42.7222711,-84.4655851,http://www.epi.msu.edu/academics/bio/masters/,2016-04
+Michigan State University,Applied Statistics,Statistics,MS,Master,Michigan,Lansing,36.7,109870,2994,36.7,69.3,42.727672,-84.4821961,https://www.stt.msu.edu/,2016-04
+Michigan State University,Statistics,Statistics,MS,Master,Michigan,Lansing,36.7,109870,2994,36.7,69.3,42.727672,-84.4821961,https://www.stt.msu.edu/,2016-04
+Michigan State University,Statistics,Statistics,PhD,Doctorate,Michigan,Lansing,36.7,109870,2994,36.7,69.3,42.727672,-84.4821961,https://www.stt.msu.edu/,2016-04
+Michigan Technological University,Statistics,Statistics,MS,Master,Michigan,Houghton,4.7,7932,1688,32,64.5,47.1182174,-88.5462226,http://www.mtu.edu/math/,2016-04
+Michigan Technological University,Statistics,Statistics,PhD,Doctorate,Michigan,Houghton,4.7,7932,1688,32,64.5,47.1182174,-88.5462226,http://www.mtu.edu/math/,2016-04
+University of Michigan,Biostatistics,Biostatistics,MPH,Master,Michigan,Ann Arbor,28.7,117770,4103,36.6,68.7,42.2807769,-83.7303391,https://sph.umich.edu/biostat/index.html,2016-04
+University of Michigan,Bioinformatics,Biostatistics,MS,Master,Michigan,Ann Arbor,28.7,117770,4103,36.6,68.7,42.2806932,-83.7338533,http://www.ccmb.med.umich.edu/,2016-04
+University of Michigan,Biostatistics,Biostatistics,MS,Master,Michigan,Ann Arbor,28.7,117770,4103,36.6,68.7,42.2807769,-83.7303391,https://sph.umich.edu/biostat/index.html,2016-04
+University of Michigan,Bioinformatics,Biostatistics,PhD,Doctorate,Michigan,Ann Arbor,28.7,117770,4103,36.6,68.7,42.2806932,-83.7338533,http://www.ccmb.med.umich.edu/,2016-04
+University of Michigan,Biostatistics,Biostatistics,PhD,Doctorate,Michigan,Ann Arbor,28.7,117770,4103,36.6,68.7,42.2807769,-83.7303391,https://sph.umich.edu/biostat/index.html,2016-04
+University of Michigan,Applied Statistics,Statistics,MS,Master,Michigan,Ann Arbor,28.7,117770,4103,36.6,68.7,42.2760164,-83.7362386,https://lsa.umich.edu/stats,2016-04
+University of Michigan,Survey Methodology,Statistics,MS,Master,Michigan,Ann Arbor,28.7,117770,4103,36.6,68.7,42.2767003,-83.7437399,http://psm.isr.umich.edu/,2016-04
+University of Michigan,Statistics,Statistics,PhD,Doctorate,Michigan,Ann Arbor,28.7,117770,4103,36.6,68.7,42.2760164,-83.7362386,https://lsa.umich.edu/stats,2016-04
+University of Michigan,Survey Methodology,Statistics,PhD,Doctorate,Michigan,Ann Arbor,28.7,117770,4103,36.6,68.7,42.2767003,-83.7437399,http://psm.isr.umich.edu/,2016-04
+Wayne State University,Mathematical Statistics,Statistics,MAS,Master,Michigan,Detroit,142.9,680250,4760,38.7,71.2,42.3585912,-83.0727595,http://clas.wayne.edu/Math/,2016-04
+Western Michigan University,Statistics,Statistics,MS,Master,Michigan,Kalamazoo,25.1,75922,3025,37.4,70.1,42.283313,-85.6177291,http://www.stat.wmich.edu/,2016-04
+Western Michigan University,Statistics,Statistics,PhD,Doctorate,Michigan,Kalamazoo,25.1,75922,3025,37.4,70.1,42.283313,-85.6177291,http://www.stat.wmich.edu/,2016-04
+University of Minnesota,Biostatistics,Biostatistics,MPH,Master,Minnesota,Minneapolis,58.4,407207,6973,31.2,71,44.9721092,-93.2326797,http://www.sph.umn.edu/academics/divisions/biostatistics/,2016-04
+University of Minnesota,Biostatistics,Biostatistics,MS,Master,Minnesota,Minneapolis,58.4,407207,6973,31.2,71,44.9721092,-93.2326797,http://www.sph.umn.edu/academics/divisions/biostatistics/,2016-04
+University of Minnesota,Biostatistics,Biostatistics,PhD,Doctorate,Minnesota,Minneapolis,58.4,407207,6973,31.2,71,44.9721092,-93.2326797,http://www.sph.umn.edu/academics/divisions/biostatistics/,2016-04
+University of Minnesota,Statistics,Statistics,MS,Master,Minnesota,Minneapolis,58.4,407207,6973,31.2,71,44.9739145,-93.2344647,http://www.stat.umn.edu/,2016-04
+University of Minnesota,Statistics,Statistics,PhD,Doctorate,Minnesota,Minneapolis,58.4,407207,6973,31.2,71,44.9739145,-93.2344647,http://www.stat.umn.edu/,2016-04
+Mississippi State University,Statistics,Statistics,MS,Master,Mississippi,Starkville,25.8,24886,965,52.5,79.7,33.452021,-88.7907795,http://www.math.msstate.edu/,2016-04
+Mississippi State University,Mathematical Sciences Statistics Track,Statistics,PhD,Doctorate,Mississippi,Starkville,25.8,24886,965,52.5,79.7,33.452021,-88.7907795,http://www.math.msstate.edu/,2016-04
+Missouri University of Science and Technology,Applied Mathematics with Statistics Emphasis,Statistics,MS,Master,Missouri,Rolla,11.85,19926,1682,42.4,74.7,37.9535213,-91.7741205,https://math.mst.edu,2016-04
+Missouri University of Science and Technology,Mathematics with Statistics Emphasis,Statistics,PhD,Doctorate,Missouri,Rolla,11.85,19926,1682,42.4,74.7,37.9535213,-91.7741205,https://math.mst.edu,2016-04
+University of Missouri,Statistics with Emphasis in Biostatistics,Biostatistics,MA,Master,Missouri,Columbia,63.51,116906,1841,41.2,75,38.946232,-92.3269893,http://www.stat.missouri.edu,2016-04
+University of Missouri,Statistics,Statistics,MA,Master,Missouri,Columbia,63.51,116906,1841,41.2,75,38.946232,-92.3269893,http://www.stat.missouri.edu,2016-04
+University of Missouri,Statistics,Statistics,PhD,Doctorate,Missouri,Columbia,63.51,116906,1841,41.2,75,38.946232,-92.3269893,http://www.stat.missouri.edu,2016-04
+University of Missouri-Kansas City,Statistics,Statistics,MS,Master,Missouri,Kansas City,319,470800,1476,42.9,77.9,39.0329828,-94.5763307,http://cas.umkc.edu/mathematics/,2016-04
+University of Missouri-Kansas City,Statistics,Statistics,PhD,Doctorate,Missouri,Kansas City,319,470800,1476,42.9,77.9,39.0329828,-94.5763307,http://cas.umkc.edu/mathematics/,2016-04
+University of Missouri-St. Louis,Mathematical and Computational Sciences with Statistics Option,Statistics,PhD,Doctorate,Missouri,St. Louis,66,317419,4809,42.7,75.5,38.7109686,-90.3115873,https://www.umsl.edu/mathcs/,2016-04
+Washington University in St. Louis,Biostatistics,Biostatistics,MS,Master,Missouri,St. Louis,66,317419,4809,42.7,75.5,38.6335709,-90.26289,https://biostatistics.wustl.edu,2016-04
+Washington University in St. Louis,Statistics,Statistics,MA,Master,Missouri,St. Louis,66,317419,4809,42.7,75.5,38.6486654,-90.305521,https://wumath.wustl.edu/,2016-04
+Washington University in St. Louis,Statistics,Statistics,PhD,Doctorate,Missouri,St. Louis,66,317419,4809,42.7,75.5,38.6486654,-90.305521,https://wumath.wustl.edu/,2016-04
+Montana State University,Statistics,Statistics,MS,Master,Montana,Bozeman,19.15,41660,2175,30.9,62.3,45.6683852,-111.0486882,http://www.math.montana.edu/,2016-04
+Montana State University,Statistics,Statistics,PhD,Doctorate,Montana,Bozeman,19.15,41660,2175,30.9,62.3,45.6683852,-111.0486882,http://www.math.montana.edu/,2016-04
+University of Montana,Mathematical Sciences Statistics Track,Statistics,MS,Master,Montana,Missoula,23.9,69821,2921,31.5,64.5,46.8592959,-113.9856263,http://hs.umt.edu/math/,2016-04
+University of Montana,Mathematical Sciences Statistics Track,Statistics,PhD,Doctorate,Montana,Missoula,23.9,69821,2921,31.5,64.5,46.8592959,-113.9856263,http://hs.umt.edu/math/,2016-04
+University of Nebraska Medical Center,Biostatistics,Biostatistics,MPH,Master,Nebraska,Omaha,130.6,446599,3420,35.4,73.3,41.255226,-95.9787257,https://www.unmc.edu/publichealth/departments/biostatistics/,2016-04
+University of Nebraska Medical Center,Biostatistics,Biostatistics,PhD,Doctorate,Nebraska,Omaha,130.6,446599,3420,35.4,73.3,41.255226,-95.9787257,https://www.unmc.edu/publichealth/departments/biostatistics/,2016-04
+University of Nebraska-Lincoln,Statistics,Statistics,MS,Master,Nebraska,Lincoln,90.36,272996,3021,36.5,73,40.8291741,-96.672294,http://statistics.unl.edu/,2016-04
+University of Nebraska-Lincoln,Statistics,Statistics,PhD,Doctorate,Nebraska,Lincoln,90.36,272996,3021,36.5,73,40.8291741,-96.672294,http://statistics.unl.edu/,2016-04
+"University of Nevada, Las Vegas",Biostatistics and Epidemiology,Biostatistics,MPH,Master,Nevada,Las Vegas,135.9,613599,4515,55.4,89.4,36.1099992,-115.1442155,https://www.unlv.edu/publichealth,2016-04
+"University of Nevada, Las Vegas",Biostatistics and Epidemiology,Biostatistics,PhD,Doctorate,Nevada,Las Vegas,135.9,613599,4515,55.4,89.4,36.1099992,-115.1442155,https://www.unlv.edu/publichealth,2016-04
+"University of Nevada, Las Vegas",Mathematics with Concentration in Statistics,Statistics,MS,Master,Nevada,Las Vegas,135.9,613599,4515,55.4,89.4,36.1051235,-115.1407877,https://www.unlv.edu/math,2016-04
+"University of Nevada, Las Vegas",Mathematics with Concentration in Statistics,Statistics,PhD,Doctorate,Nevada,Las Vegas,135.9,613599,4515,55.4,89.4,36.1051235,-115.1407877,https://www.unlv.edu/math,2016-04
+"University of Nevada, Reno",Biostatistics,Biostatistics,MPH,Master,Nevada,Reno,105.9,236995,2238,41.7,70.9,39.5455548,-119.8154703,http://dhs.unr.edu/chs/academics/mph,2016-04
+"University of Nevada, Reno",Mathematics with Statistics Emphasis,Statistics,MS,Master,Nevada,Reno,105.9,236995,2238,41.7,70.9,39.5389897,-119.8124179,https://www.unr.edu/math,2016-04
+University of New Hampshire,Statistics,Statistics,PhD,Doctorate,New Hampshire,Durham,24.75,15759,637,36.5,66.4,43.1340391,-70.9349468,http://ceps.unh.edu/mathematics-statistics,2016-04
+New Jersey Institute of Technology,Biostatistics,Biostatistics,MS,Master,New Jersey,Newark,26.11,280579,10746,44.3,74.7,40.7429603,-74.1773298,http://math.njit.edu/,2016-04
+New Jersey Institute of Technology,Applied Statistics,Statistics,MS,Master,New Jersey,Newark,26.11,280579,10746,44.3,74.7,40.7429603,-74.1773298,http://math.njit.edu/,2016-04
+Princeton University,Statistics,Statistics,MSE,Master,New Jersey,Princeton,18.36,30108,1640,42.7,72.8,40.3495387,-74.652688,https://orfe.princeton.edu/,2016-04
+Princeton University,Statistics,Statistics,PhD,Doctorate,New Jersey,Princeton,18.36,30108,1640,42.7,72.8,40.3495387,-74.652688,https://orfe.princeton.edu/,2016-04
+Princeton University,Statistics and Machine Learning,Statistics,PhD,Doctorate,New Jersey,Princeton,18.36,30108,1640,42.7,72.8,40.3495387,-74.652688,http://sml.princeton.edu/,2016-04
+Rutgers University,Biostatistics,Biostatistics,MS,Master,New Jersey,Piscataway,19,58982,3104,42.8,72.2,40.5216649,-74.4624969,http://stat.rutgers.edu/,2016-04
+Rutgers University,Data Science,Statistics,MS,Master,New Jersey,Piscataway,19,58982,3104,42.8,72.2,40.5216649,-74.4624969,http://stat.rutgers.edu/,2016-04
+Rutgers University,Statistics,Statistics,MS,Master,New Jersey,Piscataway,19,58982,3104,42.8,72.2,40.5216649,-74.4624969,http://stat.rutgers.edu/,2016-04
+Rutgers University,Statistics,Statistics,PhD,Doctorate,New Jersey,Piscataway,19,58982,3104,42.8,72.2,40.5216649,-74.4624969,http://stat.rutgers.edu/,2016-04
+New Mexico Institute of Mining and Technology,Mathematics with Operations Research and Statistics Option,Statistics,MS,Master,New Mexico,Socorro,14.4,8751,608,43.4,76.9,34.0676967,-106.9048637,http://infohost.nmt.edu/~math/,2016-04
+New Mexico State University,Mathematics with Concentration in Statistics,Statistics,MS,Master,New Mexico,Las Cruces,76.64,101408,1323,46,76.8,32.2806002,-106.7519778,https://www.math.nmsu.edu/,2016-04
+University of New Mexico,Statistics,Statistics,MS,Master,New Mexico,Albuquerque,189.5,557169,2940,43.7,76,35.0839187,-106.6241759,http://math.unm.edu/,2016-04
+University of New Mexico,Statistics,Statistics,PhD,Doctorate,New Mexico,Albuquerque,189.5,557169,2940,43.7,76,35.0839187,-106.6241759,http://math.unm.edu/,2016-04
+"Baruch College, City University of New York",Statistics,Statistics,MS,Master,New York,New York,468.9,8491079,18109,45.6,74.6,40.7402485,-73.9835376,http://zicklin.baruch.cuny.edu/programs/graduate/ms/ms-programs/degrees/statistics,2016-04
+"Binghamton University, State University of New York",Applied Statistics,Statistics,MA,Master,New York,Vestal,52.6,28242,537,35.5,66,42.0883539,-75.9637262,http://www2.math.binghamton.edu/,2016-04
+Columbia University,Biostatistics,Biostatistics,MS,Master,New York,New York,468.9,8491079,18109,45.6,74.6,40.8425307,-73.9435181,https://www.mailman.columbia.edu/become-student/departments/biostatistics,2016-04
+Columbia University,Biostatistics,Biostatistics,PhD,Doctorate,New York,New York,468.9,8491079,18109,45.6,74.6,40.8425307,-73.9435181,https://www.mailman.columbia.edu/become-student/departments/biostatistics,2016-04
+Columbia University,Statistics,Statistics,MA,Master,New York,New York,468.9,8491079,18109,45.6,74.6,40.8102112,-73.9582434,http://stat.columbia.edu/,2016-04
+Columbia University,Statistics,Statistics,PhD,Doctorate,New York,New York,468.9,8491079,18109,45.6,74.6,40.8102112,-73.9582434,http://stat.columbia.edu/,2016-04
+Cornell University,Computational Biology,Biostatistics,PhD,Doctorate,New York,Ithaca,6,30720,5120,35.2,65,42.4464902,-76.4783344,http://cb.cornell.edu/,2016-04
+Cornell University,Applied Statistics,Statistics,MPS,Master,New York,Ithaca,6,30720,5120,35.2,65,42.4482442,-76.4801614,http://stat.cornell.edu/,2016-04
+Cornell University,Statistics,Statistics,PhD,Doctorate,New York,Ithaca,6,30720,5120,35.2,65,42.4482442,-76.4801614,http://stat.cornell.edu/,2016-04
+"Hunter College, City University of New York",Statistics and Applied Mathematics,Statistics,MA,Master,New York,New York,468.9,8491079,18109,45.6,74.6,40.7685991,-73.9647291,http://math.hunter.cuny.edu/,2016-04
+New York University Langone Medical Center,Biostatistics,Biostatistics,PhD,Doctorate,New York,New York,468.9,8491079,18109,45.6,74.6,40.7458097,-73.9716415,http://www.med.nyu.edu/pophealth/divisions/biostatistics,2016-04
+New York University Steinhardt,Applied Statistics,Statistics,MS,Master,New York,New York,468.9,8491079,18109,45.6,74.6,40.7300503,-73.9949206,http://steinhardt.nyu.edu/humsocsci/applied_statistics,2016-04
+New York University Stern,Statistics,Statistics,PhD,Doctorate,New York,New York,468.9,8491079,18109,45.6,74.6,40.728917,-73.9964546,http://www.stern.nyu.edu/experience-stern/about/departments-centers-initiatives/academic-departments/ioms-dept,2016-04
+Rochester Institute of Technology,Applied Statistics,Statistics,MS,Master,New York,Rochester,37.1,209983,5660,38,68,43.0836163,-77.6772872,https://www.rit.edu/science/sms,2016-04
+Stony Brook University,Statistics,Statistics,MS,Master,New York,Stony Brook,6,13740,2290,42.8,70.7,40.9156806,-73.1263295,http://www.stonybrook.edu/commcms/ams2/,2016-04
+Stony Brook University,Statistics,Statistics,PhD,Doctorate,New York,Stony Brook,6,13740,2290,42.8,70.7,40.9156806,-73.1263295,http://www.stonybrook.edu/commcms/ams2/,2016-04
+Syracuse University,Applied Statistics,Statistics,MS,Master,New York,Syracuse,26.6,144669,5439,37.7,68.9,43.0365226,-76.1340348,http://math.syr.edu/,2016-04
+"University at Albany, State University of New York",Biometry and Statistics,Biostatistics,MS,Master,New York,Albany,21.85,98566,4511,36.8,69.1,42.62653,-73.7401316,http://www.albany.edu/sph/epi.php,2016-04
+"University at Albany, State University of New York",Biometry and Statistics,Biostatistics,PhD,Doctorate,New York,Albany,21.85,98566,4511,36.8,69.1,42.62653,-73.7401316,http://www.albany.edu/sph/epi.php,2016-04
+"University at Buffalo, State University of New York",Biostatistics,Biostatistics,MA,Master,New York,Buffalo,52.51,258703,4927,38.1,68.2,42.9556094,-78.8160972,https://sphhp.buffalo.edu/biostatistics.html,2016-04
+"University at Buffalo, State University of New York",Biostatistics,Biostatistics,MPH,Master,New York,Buffalo,52.51,258703,4927,38.1,68.2,42.9556094,-78.8160972,https://sphhp.buffalo.edu/biostatistics.html,2016-04
+"University at Buffalo, State University of New York",Biostatistics,Biostatistics,MS,Master,New York,Buffalo,52.51,258703,4927,38.1,68.2,42.9556094,-78.8160972,https://sphhp.buffalo.edu/biostatistics.html,2016-04
+"University at Buffalo, State University of New York",Biostatistics,Biostatistics,PhD,Doctorate,New York,Buffalo,52.51,258703,4927,38.1,68.2,42.9556094,-78.8160972,https://sphhp.buffalo.edu/biostatistics.html,2016-04
+University of Rochester,Medical Statistics,Biostatistics,MS,Master,New York,Rochester,37.1,209983,5660,38,68,43.120892,-77.6274464,https://www.urmc.rochester.edu/biostat/,2016-04
+University of Rochester,Statistics,Statistics,MA,Master,New York,Rochester,37.1,209983,5660,38,68,43.120892,-77.6274464,https://www.urmc.rochester.edu/biostat/,2016-04
+University of Rochester,Statistics,Statistics,PhD,Doctorate,New York,Rochester,37.1,209983,5660,38,68,43.120892,-77.6274464,https://www.urmc.rochester.edu/biostat/,2016-04
+Duke University,Biostatistics,Biostatistics,MS,Master,North Carolina,Durham,108.3,251893,2326,36.5,66.4,36.0092578,-78.941748,http://biostat.duke.edu/,2016-04
+Duke University,Biostatistics,Biostatistics,PhD,Doctorate,North Carolina,Durham,108.3,251893,2326,36.5,66.4,36.0092578,-78.941748,http://biostat.duke.edu/,2016-04
+Duke University,Statistics,Statistics,MS,Master,North Carolina,Durham,108.3,251893,2326,36.5,66.4,36.0027701,-78.9377515,https://stat.duke.edu/,2016-04
+Duke University,Statistics,Statistics,PhD,Doctorate,North Carolina,Durham,108.3,251893,2326,36.5,66.4,36.0027701,-78.9377515,https://stat.duke.edu/,2016-04
+East Carolina University,Mathematics with Concentration in Statistics,Statistics,MA,Master,North Carolina,Greenville,26.25,89852,3423,49.4,77.5,35.6058555,-77.3629327,http://www.ecu.edu/math/,2016-04
+North Carolina State University,Biostatistics Concentration,Biostatistics,MS,Master,North Carolina,Raleigh,144.8,439896,3038,50.3,77.7,35.784777,-78.6667948,http://www.stat.ncsu.edu/,2016-04
+North Carolina State University,Statistics,Statistics,MS,Master,North Carolina,Raleigh,144.8,439896,3038,50.3,77.7,35.784777,-78.6667948,http://www.stat.ncsu.edu/,2016-04
+North Carolina State University,Statistics,Statistics,PhD,Doctorate,North Carolina,Raleigh,144.8,439896,3038,50.3,77.7,35.784777,-78.6667948,http://www.stat.ncsu.edu/,2016-04
+University of North Carolina at Chapel Hill,Biostatistics,Biostatistics,MPH,Master,North Carolina,Chapel Hill,19.7,59376,3014,50.6,77.8,35.9059972,-79.0544732,http://sph.unc.edu/bios/biostatistics/,2016-04
+University of North Carolina at Chapel Hill,Biostatistics,Biostatistics,MS,Master,North Carolina,Chapel Hill,19.7,59376,3014,50.6,77.8,35.9059972,-79.0544732,http://sph.unc.edu/bios/biostatistics/,2016-04
+University of North Carolina at Chapel Hill,Biostatistics,Biostatistics,PhD,Doctorate,North Carolina,Chapel Hill,19.7,59376,3014,50.6,77.8,35.9059972,-79.0544732,http://sph.unc.edu/bios/biostatistics/,2016-04
+University of North Carolina at Chapel Hill,Statistics,Statistics,MS,Master,North Carolina,Chapel Hill,19.7,59376,3014,50.6,77.8,35.9107406,-79.0514104,http://stat-or.unc.edu/,2016-04
+University of North Carolina at Chapel Hill,Statistics,Statistics,PhD,Doctorate,North Carolina,Chapel Hill,19.7,59376,3014,50.6,77.8,35.9107406,-79.0514104,http://stat-or.unc.edu/,2016-04
+University of North Carolina at Charlotte,Mathematics with Concentration in Applied Statistics,Statistics,MS,Master,North Carolina,Charlotte,297.7,809958,2721,49.2,76.7,35.3060707,-80.7291573,http://math.uncc.edu/,2016-04
+University of North Carolina at Greensboro,Mathematics with Concentration in Applied Statistics,Statistics,MA,Master,North Carolina,Greensboro,131.2,282586,2154,47.6,76.5,36.06929,-79.807785,http://www.uncg.edu/mat/,2016-04
+University of North Carolina Wilmington,Mathematics with Concentration in Statistics,Statistics,MS,Master,North Carolina,Wilmington,41.47,113657,2741,54.8,78.9,34.2257878,-77.8708814,http://uncw.edu/math/,2016-04
+North Dakota State University,Statistics,Statistics,MS,Master,North Dakota,Fargo,48.82,115863,2373,25.6,68.1,46.8924927,-96.8032703,https://www.ndsu.edu/statistics/,2016-04
+North Dakota State University,Statistics,Statistics,PhD,Doctorate,North Dakota,Fargo,48.82,115863,2373,25.6,68.1,46.8924927,-96.8032703,https://www.ndsu.edu/statistics/,2016-04
+Bowling Green State University,Statistics,Statistics,MS,Master,Ohio,Bowling Green,12.61,31591,2505,38.5,71.6,41.3791827,-83.6405549,https://www.bgsu.edu/arts-and-sciences/mathematics-and-statistics.html,2016-04
+Bowling Green State University,Statistics,Statistics,PhD,Doctorate,Ohio,Bowling Green,12.61,31591,2505,38.5,71.6,41.3791827,-83.6405549,https://www.bgsu.edu/arts-and-sciences/mathematics-and-statistics.html,2016-04
+Case Western Reserve University,Biostatistics,Biostatistics,MS,Master,Ohio,Cleveland,82.47,389521,4723,40.7,71.1,41.506367,-81.6029075,http://epbiwww.case.edu/,2016-04
+Case Western Reserve University,Biostatistics,Biostatistics,PhD,Doctorate,Ohio,Cleveland,82.47,389521,4723,40.7,71.1,41.506367,-81.6029075,http://epbiwww.case.edu/,2016-04
+Case Western Reserve University,Statistics,Statistics,MS,Master,Ohio,Cleveland,82.47,389521,4723,40.7,71.1,41.5035781,-81.6090256,http://math.case.edu/,2016-04
+Case Western Reserve University,Statistics,Statistics,PhD,Doctorate,Ohio,Cleveland,82.47,389521,4723,40.7,71.1,41.5035781,-81.6090256,http://math.case.edu/,2016-04
+Kent State University,Biostatistics,Biostatistics,MPH,Master,Ohio,Kent,9.28,29639,3194,38.9,70.1,41.1520966,-81.3472393,http://www.kent.edu/publichealth/biostatistics,2016-04
+Miami University,Statistics,Statistics,MS,Master,Ohio,Oxford,6.7,21782,3251,40.5,72.5,39.5086796,-84.7336891,http://www.miamioh.edu/cas/academics/departments/statistics/,2016-04
+Ohio State University,Biostatistics,Biostatistics,MPH,Master,Ohio,Columbus,223.1,835957,3747,41.8,73.3,39.998648,-83.0170164,http://cph.osu.edu/bio/,2016-04
+Ohio State University,Biostatistics,Biostatistics,MS,Master,Ohio,Columbus,223.1,835957,3747,41.8,73.3,39.998648,-83.0170164,http://cph.osu.edu/bio/,2016-04
+Ohio State University,Biostatistics,Biostatistics,PhD,Doctorate,Ohio,Columbus,223.1,835957,3747,41.8,73.3,39.998648,-83.0170164,http://cph.osu.edu/bio/,2016-04
+Ohio State University,Applied Statistics,Statistics,MAS,Master,Ohio,Columbus,223.1,835957,3747,41.8,73.3,40.001126,-83.0149993,http://www.stat.osu.edu/,2016-04
+Ohio State University,Statistics,Statistics,MS,Master,Ohio,Columbus,223.1,835957,3747,41.8,73.3,40.001126,-83.0149993,http://www.stat.osu.edu/,2016-04
+Ohio State University,Statistics,Statistics,PhD,Doctorate,Ohio,Columbus,223.1,835957,3747,41.8,73.3,40.001126,-83.0149993,http://www.stat.osu.edu/,2016-04
+University of Akron,Statistics,Statistics,MS,Master,Ohio,Akron,62.37,197859,3172,38.7,69.5,41.0758804,-81.5111082,https://www.uakron.edu/statistics/,2016-04
+University of Cincinnati,Biostatistics,Biostatistics,MPH,Master,Ohio,Cincinnati,79.54,298165,3749,42.3,73.4,39.1399213,-84.5066147,https://med.uc.edu/eh/divisions/bio,2016-04
+University of Cincinnati,Biostatistics,Biostatistics,MS,Master,Ohio,Cincinnati,79.54,298165,3749,42.3,73.4,39.1399213,-84.5066147,https://med.uc.edu/eh/divisions/bio,2016-04
+University of Cincinnati,Biostatistics,Biostatistics,PhD,Doctorate,Ohio,Cincinnati,79.54,298165,3749,42.3,73.4,39.1399213,-84.5066147,https://med.uc.edu/eh/divisions/bio,2016-04
+University of Cincinnati,Statistics,Statistics,MS,Master,Ohio,Cincinnati,79.54,298165,3749,42.3,73.4,39.1324146,-84.5130023,http://www.artsci.uc.edu/departments/math,2016-04
+Oklahoma State University,Applied Statistics,Statistics,MS,Master,Oklahoma,Stillwater,28.3,48406,1710,46.6,79.4,36.1221716,-97.0714382,http://statistics.okstate.edu/,2016-04
+Oklahoma State University,Statistics,Statistics,MS,Master,Oklahoma,Stillwater,28.3,48406,1710,46.6,79.4,36.1221716,-97.0714382,http://statistics.okstate.edu/,2016-04
+Oklahoma State University,Statistics,Statistics,PhD,Doctorate,Oklahoma,Stillwater,28.3,48406,1710,46.6,79.4,36.1221716,-97.0714382,http://statistics.okstate.edu/,2016-04
+University of Central Oklahoma,Applied Mathematical Science with Statistics Emphasis,Statistics,MS,Master,Oklahoma,Edmond,33.94,88605,2611,47.8,80.3,35.6539958,-97.4727818,http://www.math.uco.edu/,2016-04
+University of Oklahoma,Biostatistics,Biostatistics,MPH,Master,Oklahoma,Oklahoma City,620,620602,1001,48.8,80.5,35.482766,-97.4985424,http://coph.ouhsc.edu/departments/bse/,2016-04
+University of Oklahoma,Biostatistics,Biostatistics,MS,Master,Oklahoma,Oklahoma City,620,620602,1001,48.8,80.5,35.482766,-97.4985424,http://coph.ouhsc.edu/departments/bse/,2016-04
+University of Oklahoma,Biostatistics,Biostatistics,PhD,Doctorate,Oklahoma,Oklahoma City,620,620602,1001,48.8,80.5,35.482766,-97.4985424,http://coph.ouhsc.edu/departments/bse/,2016-04
+Oregon Health & Science University,Biostatistics,Biostatistics,MS,Master,Oregon,Portland,145,619360,4271,45.7,66.3,45.4999438,-122.6872531,http://www.ohsu.edu/xd/education/schools/school-of-medicine/departments/clinical-departments/public-health/divisions/biostat-index.cfm,2016-04
+Oregon State University,Biostatistics,Biostatistics,MPH,Master,Oregon,Corvallis,14.3,54953,3843,44.3,63.2,44.5664758,-123.2789189,http://health.oregonstate.edu/degrees/graduate/public-health/biostatistics,2016-04
+Oregon State University,Statistics,Statistics,MS,Master,Oregon,Corvallis,14.3,54953,3843,44.3,63.2,44.5678793,-123.2774424,http://stat.oregonstate.edu/,2016-04
+Oregon State University,Statistics,Statistics,PhD,Doctorate,Oregon,Corvallis,14.3,54953,3843,44.3,63.2,44.5678793,-123.2774424,http://stat.oregonstate.edu/,2016-04
+Portland State University,Statistics,Statistics,MS,Master,Oregon,Portland,145,619360,4271,45.7,66.3,45.5111563,-122.6846391,https://www.pdx.edu/math/,2016-04
+Portland State University,Mathematical Sciences Statistics Track,Statistics,PhD,Doctorate,Oregon,Portland,145,619360,4271,45.7,66.3,45.5111563,-122.6846391,https://www.pdx.edu/math/,2016-04
+Carnegie Mellon University,Statistics,Statistics,MS,Master,Pennsylvania,Pittsburgh,58.3,305412,5239,40.2,70.4,40.4414058,-79.9445546,http://www.stat.cmu.edu/,2016-04
+Carnegie Mellon University,Statistics,Statistics,PhD,Doctorate,Pennsylvania,Pittsburgh,58.3,305412,5239,40.2,70.4,40.4414058,-79.9445546,http://www.stat.cmu.edu/,2016-04
+Drexel University,Biostatistics,Biostatistics,MPH,Master,Pennsylvania,Philadelphia,141.7,1560297,11011,45.3,75.2,39.9559463,-75.1891305,http://drexel.edu/dornsife/academics/departments/epidemiology-biostatistics/,2016-04
+Drexel University,Biostatistics,Biostatistics,MS,Master,Pennsylvania,Philadelphia,141.7,1560297,11011,45.3,75.2,39.9559463,-75.1891305,http://drexel.edu/dornsife/academics/departments/epidemiology-biostatistics/,2016-04
+Lehigh University,Statistics,Statistics,MS,Master,Pennsylvania,Bethlehem,19.38,75135,3877,40.2,71.1,40.6081082,-75.3772067,https://math.cas2.lehigh.edu/,2016-04
+Lehigh University,Applied Mathematics with Statistics Track,Statistics,PhD,Doctorate,Pennsylvania,Bethlehem,19.38,75135,3877,40.2,71.1,40.6081082,-75.3772067,https://math.cas2.lehigh.edu/,2016-04
+Pennsylvania State University,Epidemiology and Biostatistics,Biostatistics,MPH,Master,Pennsylvania,Hershey,14.4,14257,990,41.5,73.3,40.2633248,-76.6768321,http://www2.med.psu.edu/phs/,2016-04
+Pennsylvania State University,Biostatistics,Biostatistics,PhD,Doctorate,Pennsylvania,Hershey,14.4,14257,990,41.5,73.3,40.2633248,-76.6768321,http://www2.med.psu.edu/phs/,2016-04
+Pennsylvania State University,Applied Statistics,Statistics,MAS,Master,Pennsylvania,University Park,1.51,13700,9073,35.7,64.6,40.8005512,-77.8603247,http://stat.psu.edu/,2016-04
+Pennsylvania State University,Statistics,Statistics,MS,Master,Pennsylvania,University Park,1.51,13700,9073,35.7,64.6,40.8005512,-77.8603247,http://stat.psu.edu/,2016-04
+Pennsylvania State University,Statistics,Statistics,PhD,Doctorate,Pennsylvania,University Park,1.51,13700,9073,35.7,64.6,40.8005512,-77.8603247,http://stat.psu.edu/,2016-04
+Temple University,Applied Biostatistics,Biostatistics,MPH,Master,Pennsylvania,Philadelphia,141.7,1560297,11011,45.3,75.2,39.9788297,-75.156249,https://cph.temple.edu/epibio/home,2016-04
+Temple University,Business Analytics,Statistics,MS,Master,Pennsylvania,Philadelphia,141.7,1560297,11011,45.3,75.2,39.9807198,-75.1558441,http://www.fox.temple.edu/cms_academics/dept/statistics/,2016-04
+Temple University,Statistics,Statistics,MS,Master,Pennsylvania,Philadelphia,141.7,1560297,11011,45.3,75.2,39.9807198,-75.1558441,http://www.fox.temple.edu/cms_academics/dept/statistics/,2016-04
+Temple University,Statistics,Statistics,PhD,Doctorate,Pennsylvania,Philadelphia,141.7,1560297,11011,45.3,75.2,39.9807198,-75.1558441,http://www.fox.temple.edu/cms_academics/dept/statistics/,2016-04
+University of Pennsylvania,Biostatistics,Biostatistics,MS,Master,Pennsylvania,Philadelphia,141.7,1560297,11011,45.3,75.2,39.948501,-75.1974779,http://www.med.upenn.edu/cceb/biostat/,2016-04
+University of Pennsylvania,Biostatistics,Biostatistics,PhD,Doctorate,Pennsylvania,Philadelphia,141.7,1560297,11011,45.3,75.2,39.948501,-75.1974779,http://www.med.upenn.edu/cceb/biostat/,2016-04
+University of Pennsylvania,Statistics,Statistics,MBA,Master,Pennsylvania,Philadelphia,141.7,1560297,11011,45.3,75.2,39.9529314,-75.1982108,https://statistics.wharton.upenn.edu/,2016-04
+University of Pennsylvania,Statistics,Statistics,PhD,Doctorate,Pennsylvania,Philadelphia,141.7,1560297,11011,45.3,75.2,39.9529314,-75.1982108,https://statistics.wharton.upenn.edu/,2016-04
+University of Pittsburgh,Biostatistics,Biostatistics,MPH,Master,Pennsylvania,Pittsburgh,58.3,305412,5239,40.2,70.4,40.4428389,-79.9584606,http://www.publichealth.pitt.edu/biostatistics,2016-04
+University of Pittsburgh,Biostatistics,Biostatistics,MS,Master,Pennsylvania,Pittsburgh,58.3,305412,5239,40.2,70.4,40.4428389,-79.9584606,http://www.publichealth.pitt.edu/biostatistics,2016-04
+University of Pittsburgh,Biostatistics,Biostatistics,PhD,Doctorate,Pennsylvania,Pittsburgh,58.3,305412,5239,40.2,70.4,40.4428389,-79.9584606,http://www.publichealth.pitt.edu/biostatistics,2016-04
+University of Pittsburgh,Applied Statistics,Statistics,MS,Master,Pennsylvania,Pittsburgh,58.3,305412,5239,40.2,70.4,40.4416761,-79.9537553,http://www.stat.pitt.edu/,2016-04
+University of Pittsburgh,Statistics,Statistics,MS,Master,Pennsylvania,Pittsburgh,58.3,305412,5239,40.2,70.4,40.4416761,-79.9537553,http://www.stat.pitt.edu/,2016-04
+University of Pittsburgh,Statistics,Statistics,PhD,Doctorate,Pennsylvania,Pittsburgh,58.3,305412,5239,40.2,70.4,40.4416761,-79.9537553,http://www.stat.pitt.edu/,2016-04
+Villanova University,Applied Statistics,Statistics,MS,Master,Pennsylvania,Villanova,5.87,9189,1565,46.2,76.5,40.0374295,-75.3408212,http://www1.villanova.edu/villanova/artsci/mathematics.html,2016-04
+West Chester University,Applied Statistics,Statistics,MS,Master,Pennsylvania,West Chester,1.82,18968,10422,41.5,71,39.9534693,-75.5995989,http://www.wcupa.edu/sciences-mathematics/,2016-04
+Brown University,Biostatistics,Biostatistics,MS,Master,Rhode Island,Providence,20.6,179154,8697,41.7,70.5,41.8239698,-71.4069604,https://www.brown.edu/academics/public-health/biostatistics/,2016-04
+Brown University,Biostatistics,Biostatistics,PhD,Doctorate,Rhode Island,Providence,20.6,179154,8697,41.7,70.5,41.8239698,-71.4069604,https://www.brown.edu/academics/public-health/biostatistics/,2016-04
+University of Rhode Island,Statistics,Statistics,MS,Master,Rhode Island,Kingston,1.57,5446,3469,39.9,66.8,41.4890024,-71.5268739,https://www.cs.uri.edu/,2016-04
+Clemson University,Applied Economics and Statistics,Statistics,MS,Master,South Carolina,Clemson,7.92,15072,1903,52.5,78.7,34.6769282,-82.8393057,http://economics.clemson.edu/graduate-program/masters/program-description,2016-04
+Clemson University,Mathematical Sciences with Concentration in Applied Statistics and Data Science,Statistics,MS,Master,South Carolina,Clemson,7.92,15072,1903,52.5,78.7,34.6780841,-82.8355184,http://www.clemson.edu/ces/departments/math/index.html,2016-04
+Clemson University,Mathematical Sciences with Concentration in Statistics and Probability,Statistics,MS,Master,South Carolina,Clemson,7.92,15072,1903,52.5,78.7,34.6780841,-82.8355184,http://www.clemson.edu/ces/departments/math/index.html,2016-04
+Clemson University,Mathematical Sciences with Concentration in Applied Statistics and Data Science,Statistics,PhD,Doctorate,South Carolina,Clemson,7.92,15072,1903,52.5,78.7,34.6780841,-82.8355184,http://www.clemson.edu/ces/departments/math/index.html,2016-04
+Clemson University,Mathematical Sciences with Concentration in Statistics and Probability,Statistics,PhD,Doctorate,South Carolina,Clemson,7.92,15072,1903,52.5,78.7,34.6780841,-82.8355184,http://www.clemson.edu/ces/departments/math/index.html,2016-04
+Medical University of South Carolina,Biostatistics,Biostatistics,MS,Master,South Carolina,Charleston,156.6,130113,831,56.9,80.5,32.7876074,-79.9495795,http://academicdepartments.musc.edu/phs/academics/biostatistics/,2016-04
+Medical University of South Carolina,Biostatistics,Biostatistics,PhD,Doctorate,South Carolina,Charleston,156.6,130113,831,56.9,80.5,32.7876074,-79.9495795,http://academicdepartments.musc.edu/phs/academics/biostatistics/,2016-04
+University of South Carolina,Biostatistics,Biostatistics,MPH,Master,South Carolina,Columbia,134.9,132067,979,52.9,80.6,33.9948197,-81.0351929,http://www.sph.sc.edu/epid_bios/,2016-04
+University of South Carolina,Biostatistics,Biostatistics,MSPH,Master,South Carolina,Columbia,134.9,132067,979,52.9,80.6,33.9948197,-81.0351929,http://www.sph.sc.edu/epid_bios/,2016-04
+University of South Carolina,Biostatistics,Biostatistics,PhD,Doctorate,South Carolina,Columbia,134.9,132067,979,52.9,80.6,33.9948197,-81.0351929,http://www.sph.sc.edu/epid_bios/,2016-04
+University of South Carolina,Statistics,Statistics,MS,Master,South Carolina,Columbia,134.9,132067,979,52.9,80.6,33.9984084,-81.025484,http://www.stat.sc.edu/,2016-04
+University of South Carolina,Statistics,Statistics,PhD,Doctorate,South Carolina,Columbia,134.9,132067,979,52.9,80.6,33.9984084,-81.025484,http://www.stat.sc.edu/,2016-04
+South Dakota State University,Data Science,Statistics,MS,Master,South Dakota,Brookings,13.03,23225,1782,27.3,67.7,44.314881,-96.7842883,http://www.sdstate.edu/mathstat/,2016-04
+South Dakota State University,Statistics,Statistics,MS,Master,South Dakota,Brookings,13.03,23225,1782,27.3,67.7,44.314881,-96.7842883,http://www.sdstate.edu/mathstat/,2016-04
+South Dakota State University,Computational Science and Statistics,Statistics,PhD,Doctorate,South Dakota,Brookings,13.03,23225,1782,27.3,67.7,44.314881,-96.7842883,http://www.sdstate.edu/mathstat/,2016-04
+East Tennessee State University,Biostatistics,Biostatistics,MPH,Master,Tennessee,Johnson City,39.6,65813,1662,44.4,72.8,36.3015678,-82.3692969,http://www.etsu.edu/cph/biostat_epidemiology/,2016-04
+East Tennessee State University,Mathematical Sciences with Concentration in Applied Statistics,Statistics,MS,Master,Tennessee,Johnson City,39.6,65813,1662,44.4,72.8,36.3034008,-82.3685136,http://www.etsu.edu/cas/math/,2016-04
+Middle Tennessee State University,Biostatistics,Biostatistics,MS,Master,Tennessee,Murfreesboro,39.19,120954,3086,45.9,75,35.8492994,-86.3688245,http://www.mtsu.edu/programs/biostatistics-ms/,2016-04
+University of Tennessee Knoxville,Statistics,Statistics,MS,Master,Tennessee,Knoxville,104.2,184281,1769,47.9,76.5,35.9561839,-83.928996,http://bas.utk.edu/,2016-04
+University of Tennessee Knoxville,Analytics,Statistics,PhD,Doctorate,Tennessee,Knoxville,104.2,184281,1769,47.9,76.5,35.9561839,-83.928996,http://bas.utk.edu/,2016-04
+Vanderbilt University,Biostatistics,Biostatistics,MS,Master,Tennessee,Nashville,526,668347,1271,47.7,77.4,36.14386,-86.8003696,https://medschool.vanderbilt.edu/biostatistics/,2016-04
+Vanderbilt University,Biostatistics,Biostatistics,PhD,Doctorate,Tennessee,Nashville,526,668347,1271,47.7,77.4,36.14386,-86.8003696,https://medschool.vanderbilt.edu/biostatistics/,2016-04
+Baylor University,Statistics,Statistics,MS,Master,Texas,Waco,95.48,130194,1364,55.7,83.1,31.5487045,-97.1194464,http://www.baylor.edu/statistics/,2016-04
+Baylor University,Statistics,Statistics,PhD,Doctorate,Texas,Waco,95.48,130194,1364,55.7,83.1,31.5487045,-97.1194464,http://www.baylor.edu/statistics/,2016-04
+Rice University,Statistics,Statistics,MA,Master,Texas,Houston,627,2239558,3572,61,82.3,29.7201097,-95.3988455,http://statistics.rice.edu/,2016-04
+Rice University,Statistics,Statistics,PhD,Doctorate,Texas,Houston,627,2239558,3572,61,82.3,29.7201097,-95.3988455,http://statistics.rice.edu/,2016-04
+Sam Houston State University,Statistics,Statistics,MS,Master,Texas,Huntsville,31.24,40435,1294,58.3,82.9,30.7135594,-95.5485385,http://www.shsu.edu/academics/mathematics-and-statistics/,2016-04
+Southern Methodist University,Biostatistics,Biostatistics,PhD,Doctorate,Texas,Dallas,385.8,1281047,3320,54.8,82,32.8456103,-96.7831188,http://www.smu.edu/Dedman/Academics/Departments/Statistics,2016-04
+Southern Methodist University,Applied Statistics,Statistics,MS,Master,Texas,Dallas,385.8,1281047,3320,54.8,82,32.8456103,-96.7831188,http://www.smu.edu/Dedman/Academics/Departments/Statistics,2016-04
+Southern Methodist University,Statistical Science,Statistics,PhD,Doctorate,Texas,Dallas,385.8,1281047,3320,54.8,82,32.8456103,-96.7831188,http://www.smu.edu/Dedman/Academics/Departments/Statistics,2016-04
+Texas A&M University,Biostatistics,Biostatistics,MPH,Master,Texas,College Station,40.35,103483,2565,57.3,81.7,30.6096735,-96.3541934,http://sph.tamhsc.edu/epi-bio/,2016-04
+Texas A&M University,Statistics,Statistics,MS,Master,Texas,College Station,40.35,103483,2565,57.3,81.7,30.6195671,-96.342279,https://www.stat.tamu.edu/,2016-04
+Texas A&M University,Statistics,Statistics,PhD,Doctorate,Texas,College Station,40.35,103483,2565,57.3,81.7,30.6195671,-96.342279,https://www.stat.tamu.edu/,2016-04
+Texas Tech University,Statistics,Statistics,MS,Master,Texas,Lubbock,123.6,243839,1973,48.3,78.7,33.5849758,-101.8760544,http://www.math.ttu.edu/,2016-04
+University of Houston,Applied Mathematics with Concentration in Mathematical Statistics,Statistics,MS,Master,Texas,Houston,627,2239558,3572,61,82.3,29.7216178,-95.3436846,http://www.mathematics.uh.edu/,2016-04
+University of North Texas,Biostatistics,Biostatistics,MPH,Master,Texas,Fort Worth,349.2,812238,2326,54.5,82.8,32.7486704,-97.3695543,https://www.unthsc.edu/school-of-public-health/biostatistics-and-epidemiology/,2016-04
+University of North Texas,Public Health Sciences with a Biostatistics Concentration,Biostatistics,PhD,Doctorate,Texas,Fort Worth,349.2,812238,2326,54.5,82.8,32.7486704,-97.3695543,https://www.unthsc.edu/school-of-public-health/biostatistics-and-epidemiology/,2016-04
+University of Texas at Arlington,Statistics,Statistics,PhD,Doctorate,Texas,Arlington,99.7,383204,3844,54.7,82.4,32.7288517,-97.11155,http://www.uta.edu/math/,2016-04
+University of Texas at Arlington,Statistics,Statistics,PhD,Doctorate,Texas,Arlington,99.7,383204,3844,54.7,82.4,32.7288517,-97.11155,http://www.uta.edu/math/,2016-04
+University of Texas at Austin,Statistics,Statistics,MS,Master,Texas,Austin,271.8,912791,3358,57.2,82.5,30.2862151,-97.7366844,https://stat.utexas.edu/,2016-04
+University of Texas at Austin,Statistics,Statistics,PhD,Doctorate,Texas,Austin,271.8,912791,3358,57.2,82.5,30.2862151,-97.7366844,https://stat.utexas.edu/,2016-04
+University of Texas at Dallas,Statistics,Statistics,MS,Master,Texas,Dallas,385.8,1281047,3320,54.8,82,32.987723,-96.7490762,http://www.utdallas.edu/math/,2016-04
+University of Texas at Dallas,Statistics,Statistics,PhD,Doctorate,Texas,Dallas,385.8,1281047,3320,54.8,82,32.987723,-96.7490762,http://www.utdallas.edu/math/,2016-04
+University of Texas at El Paso,Statistics,Statistics,MS,Master,Texas,El Paso,256.3,679036,2649,51.9,81.9,31.7687008,-106.5049893,http://math.utep.edu/,2016-04
+University of Texas at San Antonio,Applied Statistics,Statistics,MS,Master,Texas,San Antonio,465,1436697,3090,59.5,83.8,29.585208,-98.6180797,http://business.utsa.edu/mss/,2016-04
+University of Texas at San Antonio,Applied Statistics,Statistics,PhD,Doctorate,Texas,San Antonio,465,1436697,3090,59.5,83.8,29.585208,-98.6180797,http://business.utsa.edu/mss/,2016-04
+University of Texas Health Science Center at Houston,Biostatistics,Biostatistics,MPH,Master,Texas,Houston,627,2239558,3572,61,82.3,29.7051116,-95.3981844,https://sph.uth.edu/divisions/biostatistics/,2016-04
+University of Texas Health Science Center at Houston,Biostatistics,Biostatistics,MS,Master,Texas,Houston,627,2239558,3572,61,82.3,29.7051116,-95.3981844,https://sph.uth.edu/divisions/biostatistics/,2016-04
+University of Texas Health Science Center at Houston,Biostatistics,Biostatistics,PhD,Doctorate,Texas,Houston,627,2239558,3572,61,82.3,29.7051116,-95.3981844,https://sph.uth.edu/divisions/biostatistics/,2016-04
+Brigham Young University,Statistics,Statistics,MS,Master,Utah,Provo,44.17,114801,2599,38.2,73.2,40.249421,-111.6507965,https://statistics.byu.edu/,2016-04
+University of Utah,Biostatistics,Biostatistics,MS,Master,Utah,Salt Lake City,110.4,190884,1729,38.7,73.9,40.7611493,-111.825586,http://medicine.utah.edu/dfpm/,2016-04
+University of Utah,Statistics,Statistics,MS,Master,Utah,Salt Lake City,110.4,190884,1729,38.7,73.9,40.7659588,-111.8501665,http://www.math.utah.edu/,2016-04
+Utah State University,Statistics,Statistics,MS,Master,Utah,Logan,18.53,48997,2644,31.8,65.9,41.7418097,-111.8127922,http://www.math.usu.edu/,2016-04
+Utah State University,Statistics,Statistics,PhD,Doctorate,Utah,Logan,18.53,48997,2644,31.8,65.9,41.7418097,-111.8127922,http://www.math.usu.edu/,2016-04
+University of Vermont,Biostatistics,Biostatistics,MS,Master,Vermont,Burlington,15.48,42211,2727,34.4,67.9,44.4809125,-73.1990957,http://www.uvm.edu/~cems/mathstat/,2016-04
+University of Vermont,Statistics,Statistics,MS,Master,Vermont,Burlington,15.48,42211,2727,34.4,67.9,44.4809125,-73.1990957,http://www.uvm.edu/~cems/mathstat/,2016-04
+George Mason University,Biostatistics,Biostatistics,MS,Master,Virginia,Fairfax,6.29,24483,3892,43.8,74.2,38.8275007,-77.3050609,http://statistics.gmu.edu/,2016-04
+George Mason University,Statistics,Statistics,MS,Master,Virginia,Fairfax,6.29,24483,3892,43.8,74.2,38.8275007,-77.3050609,http://statistics.gmu.edu/,2016-04
+George Mason University,Statistics,Statistics,PhD,Doctorate,Virginia,Fairfax,6.29,24483,3892,43.8,74.2,38.8275007,-77.3050609,http://statistics.gmu.edu/,2016-04
+Old Dominion University,Computational and Applied Mathematics,Statistics,MS,Master,Virginia,Norfolk,95.98,245428,2557,51.1,77.2,36.8855754,-76.3075581,https://www.odu.edu/math,2016-04
+Old Dominion University,Computational and Applied Mathematics,Statistics,PhD,Doctorate,Virginia,Norfolk,95.98,245428,2557,51.1,77.2,36.8855754,-76.3075581,https://www.odu.edu/math,2016-04
+University of Virginia,Statistics,Statistics,MS,Master,Virginia,Charlottesville,10.31,45593,4422,43.9,73.3,38.0329986,-78.5070327,http://statistics.as.virginia.edu/,2016-04
+University of Virginia,Statistics,Statistics,PhD,Doctorate,Virginia,Charlottesville,10.31,45593,4422,43.9,73.3,38.0329986,-78.5070327,http://statistics.as.virginia.edu/,2016-04
+Virginia Commonwealth University,Biostatistics,Biostatistics,MS,Master,Virginia,Richmond,62.51,217853,3485,48,76.7,37.5385067,-77.4363497,http://www.biostatistics.vcu.edu/,2016-04
+Virginia Commonwealth University,Biostatistics,Biostatistics,PhD,Doctorate,Virginia,Richmond,62.51,217853,3485,48,76.7,37.5385067,-77.4363497,http://www.biostatistics.vcu.edu/,2016-04
+Virginia Commonwealth University,Mathematical Sciences with Concentration in Statistics,Statistics,MS,Master,Virginia,Richmond,62.51,217853,3485,48,76.7,37.2388908,-77.4177513,http://ssor.vcu.edu/,2016-04
+Virginia Commonwealth University,Systems Modeling and Analysis with Concentration in Statistics,Statistics,PhD,Doctorate,Virginia,Richmond,62.51,217853,3485,48,76.7,37.2388908,-77.4177513,http://ssor.vcu.edu/,2016-04
+Virginia Tech,Applied Statistics,Statistics,MA,Master,Virginia,Blacksburg,19.89,43985,2211,42.9,70.3,37.225723,-80.4229519,http://www.stat.vt.edu/,2016-04
+Virginia Tech,Statistics,Statistics,MS,Master,Virginia,Blacksburg,19.89,43985,2211,42.9,70.3,37.225723,-80.4229519,http://www.stat.vt.edu/,2016-04
+Virginia Tech,Statistics,Statistics,PhD,Doctorate,Virginia,Blacksburg,19.89,43985,2211,42.9,70.3,37.225723,-80.4229519,http://www.stat.vt.edu/,2016-04
+University of Washington,Biostatistics,Biostatistics,MPH,Master,Washington,Seattle,83.78,668342,7977,45.6,63.5,47.6505688,-122.3099408,http://www.biostat.washington.edu/,2016-04
+University of Washington,Biostatistics,Biostatistics,MS,Master,Washington,Seattle,83.78,668342,7977,45.6,63.5,47.6505688,-122.3099408,http://www.biostat.washington.edu/,2016-04
+University of Washington,Biostatistics,Biostatistics,PhD,Doctorate,Washington,Seattle,83.78,668342,7977,45.6,63.5,47.6505688,-122.3099408,http://www.biostat.washington.edu/,2016-04
+University of Washington,Statistics,Statistics,MS,Master,Washington,Seattle,83.78,668342,7977,45.6,63.5,47.6569544,-122.3042444,http://www.stat.washington.edu/,2016-04
+University of Washington,Statistics,Statistics,PhD,Doctorate,Washington,Seattle,83.78,668342,7977,45.6,63.5,47.6569544,-122.3042444,http://www.stat.washington.edu/,2016-04
+Washington State University,Statistics,Statistics,MS,Master,Washington,Pullman,9.88,31682,3207,36.1,62.3,46.7283092,-117.1635888,http://www.math.wsu.edu/,2016-04
+Washington State University,Mathematics with Statistics Option,Statistics,PhD,Doctorate,Washington,Pullman,9.88,31682,3207,36.1,62.3,46.7283092,-117.1635888,http://www.math.wsu.edu/,2016-04
+West Virginia University,Biostatistics,Biostatistics,MPH,Master,West Virginia,Morgantown,10.62,31073,2926,42.4,71.2,39.6546867,-79.9579436,http://publichealth.hsc.wvu.edu/biostatistics/,2016-04
+West Virginia University,Biostatistics,Biostatistics,MS,Master,West Virginia,Morgantown,10.62,31073,2926,42.4,71.2,39.6546867,-79.9579436,http://publichealth.hsc.wvu.edu/biostatistics/,2016-04
+West Virginia University,Statistics,Statistics,MS,Master,West Virginia,Morgantown,10.62,31073,2926,42.4,71.2,39.6350716,-79.9568848,http://statistics.wvu.edu/,2016-04
+Medical College of Wisconsin,Biostatistics,Biostatistics,PhD,Doctorate,Wisconsin,Milwaukee,96.8,599642,6195,35.8,68.6,43.0438288,-88.0223335,http://www.mcw.edu/Biostatistics,2016-04
+University of Wisconsin-Madison,Biometry,Biostatistics,MS,Master,Wisconsin,Madison,84.7,245691,2901,33,68.5,43.074095,-89.4067758,https://www.stat.wisc.edu/masters-biometry,2016-04
+University of Wisconsin-Madison,Biostatistics,Biostatistics,MS,Master,Wisconsin,Madison,84.7,245691,2901,33,68.5,43.074095,-89.4067758,https://www.biostat.wisc.edu/,2016-04
+University of Wisconsin-Madison,Biostatistics,Biostatistics,PhD,Doctorate,Wisconsin,Madison,84.7,245691,2901,33,68.5,43.074095,-89.4067758,https://www.biostat.wisc.edu/,2016-04
+University of Wisconsin-Madison,Data Science,Statistics,MS,Master,Wisconsin,Madison,84.7,245691,2901,33,68.5,43.074095,-89.4067758,https://www.stat.wisc.edu/,2016-04
+University of Wisconsin-Madison,Statistics,Statistics,MS,Master,Wisconsin,Madison,84.7,245691,2901,33,68.5,43.074095,-89.4067758,https://www.stat.wisc.edu/,2016-04
+University of Wisconsin-Madison,Statistics,Statistics,PhD,Doctorate,Wisconsin,Madison,84.7,245691,2901,33,68.5,43.074095,-89.4067758,https://www.stat.wisc.edu/,2016-04
+University of Wisconsin-Milwaukee,Biostatistics,Biostatistics,PhD,Doctorate,Wisconsin,Milwaukee,96.8,599642,6195,35.8,68.6,43.0466654,-87.9240862,https://uwm.edu/publichealth/doctoral-biostatistics/,2016-04
+University of Wyoming,Statistics,Statistics,MS,Master,Wyoming,Laramie,17.76,32081,1806,28.6,60.1,41.312177,-105.5807528,http://www.uwyo.edu/statistics/,2016-04
+University of Wyoming,Statistics,Statistics,PhD,Doctorate,Wyoming,Laramie,17.76,32081,1806,28.6,60.1,41.312177,-105.5807528,http://www.uwyo.edu/statistics/,2016-04

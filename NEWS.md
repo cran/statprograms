@@ -1,0 +1,3 @@
+# statprograms 0.1.0 (2016-08-14)
+
+- Initial release of statprograms and degreesawarded datasets.
