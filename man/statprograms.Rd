@@ -14,7 +14,7 @@
  \item{\code{state}}{The state}
  \item{\code{city}}{The city}
  \item{\code{square_miles}}{The square miles of the city (or region) from \url{https://www.wikipedia.org/}}
- \item{\code{population}}{The population of the city (or region) from \url{https://www.wikipedia.org/} or \url{http://www.census.gov/popest/data/index.html}. Most are estimates from 2010 to 2014.}
+ \item{\code{population}}{The population of the city (or region) from \url{https://www.wikipedia.org/} or \url{https://www.census.gov/programs-surveys/popest/data/data-sets.html}. Most are estimates from 2010 to 2014.}
  \item{\code{density}}{The population density}
  \item{\code{average_winter}}{The average winter temperature from \url{http://weatherdb.com}}
  \item{\code{average_summer}}{The average summer temperature from \url{http://weatherdb.com}}
@@ -37,35 +37,34 @@ summary(statprograms)
 #----------------------------------------------------------------------------
 # Plot locations on a map
 #----------------------------------------------------------------------------
-# load the required packages
+library(maps)
 library(ggplot2)
-library(ggmap)
+library(mapproj)
 
-# get the map
-map <- get_map(
-  location = c(
-    lon = mean(statprograms$longitude),
-    lat = mean(statprograms$latitude)
-  ),
-  zoom = 3,
-  maptype = "roadmap",
-  scale = 2
-)
+us_states <- map_data("state")
 
-# plot the map with points
-## Alaska is cut off :(
-ggmap(map) +
-  geom_point(
-    data = statprograms,
-    aes(x = longitude, y = latitude, fill = "red", alpha = 0.5),
-    size = 2,
-    shape = 21
+ggplot(
+  data = statprograms[statprograms$state != "Alaska", ],
+  mapping = aes(x = longitude, y = latitude)
+) +
+  geom_polygon(
+    data = us_states,
+    aes(x = long, y = lat, group = group),
+    fill = "white",
+    color = "gray50",
+    size = 0.5
   ) +
-  guides(fill = FALSE, alpha = FALSE, size = FALSE)
+  geom_point() +
+  guides(fill = FALSE) +
+  coord_map(
+    projection = "albers",
+    lat0 = 39,
+    lat1 = 45
+  ) +
+  theme_bw()
 }
 }
 \author{
 Brett Klamer
 }
 \keyword{datasets}
-

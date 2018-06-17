@@ -4,7 +4,7 @@
 \name{degreesawarded}
 \alias{degreesawarded}
 \title{Degrees Awarded by Year}
-\format{A \code{data.frame} with 4147 observations and 5 columns. The columns are defined as follows:
+\format{A \code{data.frame} with 4606 observations and 5 columns. The columns are defined as follows:
 \describe{
  \item{\code{school}}{The college}
  \item{\code{program_category}}{The program type categorized as either "Statistics" or "Biostatistics"}
@@ -13,7 +13,7 @@
  \item{\code{count}}{The number of degrees awarded}
 }}
 \source{
-Pierson, Steve. Largest U.S. Doctorate Programs in Statistics and Biostatistics. 25 July 2016.  \url{http://community.amstat.org/blogs/steve-pierson/2014/02/09/largest-doctorate-programs-in-statistics-and-biostatistics} and Pierson, Steve. Largest U.S. Master's Programs in Statistics and Biostatistics. 25 July 2016.  \url{http://community.amstat.org/blogs/steve-pierson/2014/02/09/largest-graduate-programs-in-statistics}
+"Statistics and Biostatistics Degree Data.", \url{www.amstat.org/asa/education/Statistics-and-Biostatistics-Degree-Data.aspx}
 }
 \usage{
 degreesawarded
@@ -32,4 +32,3 @@ spread(degreesawarded, key = year, value = count)
 }
 }
 \keyword{datasets}
-
