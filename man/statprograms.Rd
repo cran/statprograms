@@ -4,7 +4,8 @@
 \name{statprograms}
 \alias{statprograms}
 \title{Graduate Statistics Program Data}
-\format{A \code{data.frame} with 490 observations and 16 columns. The columns are defined as follows:
+\format{
+A \code{data.frame} with 490 observations and 16 columns. The columns are defined as follows:
 \describe{
  \item{\code{school}}{The college}
  \item{\code{program}}{The program type as advertised by the department}
@@ -16,13 +17,14 @@
  \item{\code{square_miles}}{The square miles of the city (or region) from \url{https://www.wikipedia.org/}}
  \item{\code{population}}{The population of the city (or region) from \url{https://www.wikipedia.org/} or \url{https://www.census.gov/programs-surveys/popest/data/data-sets.html}. Most are estimates from 2010 to 2014.}
  \item{\code{density}}{The population density}
- \item{\code{average_winter}}{The average winter temperature from \url{http://weatherdb.com}}
- \item{\code{average_summer}}{The average summer temperature from \url{http://weatherdb.com}}
- \item{\code{latitude}}{The latitude of the department's building (or as close as possible) from \url{http://www.gps-coordinates.net}}
- \item{\code{longitude}}{The longitude of the department's building (or as close as possible) from \url{http://www.gps-coordinates.net}}
+ \item{\code{average_winter}}{The average winter temperature}
+ \item{\code{average_summer}}{The average summer temperature}
+ \item{\code{latitude}}{The latitude of the department's building (or as close as possible) from \url{https://www.gps-coordinates.net/}}
+ \item{\code{longitude}}{The longitude of the department's building (or as close as possible) from \url{https://www.gps-coordinates.net/}}
  \item{\code{link}}{The URL of the department's website}
  \item{\code{date_collected}}{The date the information was recorded}
-}}
+}
+}
 \usage{
 statprograms
 }
@@ -51,11 +53,10 @@ ggplot(
     data = us_states,
     aes(x = long, y = lat, group = group),
     fill = "white",
-    color = "gray50",
-    size = 0.5
+    color = "gray50"
   ) +
   geom_point() +
-  guides(fill = FALSE) +
+  guides(fill = "none") +
   coord_map(
     projection = "albers",
     lat0 = 39,

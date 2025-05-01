@@ -1,12 +1,12 @@
-8f198b490d9c10726d2e14bad46cb1d3 *DESCRIPTION
+2575299159078d5419b710367afc9109 *DESCRIPTION
 616f3a8b6443bda98be5e62d1a8e196c *LICENSE
 dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
-138e285c29c38d28e3ec6071e18eceda *NEWS.md
-55304fc42fc88d69b815da00ca79c830 *R/data-documentation.R
+4eb6a9da183d671a1428214151b7021d *NEWS.md
+c5d94cd23d25eadfe8c61d2d8494b1fb *R/data-documentation.R
 7ac55ea5c96c421a6c1f507e47ae1afd *README.md
 cbd84770ef0295bd7da36bbb1efdd0c1 *data/degreesawarded.rda
 1c50fe41a5392beb2a7d07fa63a01005 *data/statprograms.rda
 4d81f2b6278d6b1d79d518c115737ebf *inst/extdata/degreesawarded.csv
 bb51c55281bd7a9b1b8c12128b296694 *inst/extdata/statprograms.csv
-e14c05b46cf808363a377b90d6100e60 *man/degreesawarded.Rd
-7ed4381b63528a2808a4804b5e79ad52 *man/statprograms.Rd
+9c579a2bcaca2f24ed7c6c05ef501786 *man/degreesawarded.Rd
+dd7bcb566be0599991f9752790d88d2b *man/statprograms.Rd

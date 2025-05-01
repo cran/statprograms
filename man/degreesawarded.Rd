@@ -4,22 +4,24 @@
 \name{degreesawarded}
 \alias{degreesawarded}
 \title{Degrees Awarded by Year}
-\format{A \code{data.frame} with 4606 observations and 5 columns. The columns are defined as follows:
+\format{
+A \code{data.frame} with 4606 observations and 5 columns. The columns are defined as follows:
 \describe{
  \item{\code{school}}{The college}
  \item{\code{program_category}}{The program type categorized as either "Statistics" or "Biostatistics"}
  \item{\code{degree_category}}{The degree categorized as either "Master" or "Doctorate"}
  \item{\code{year}}{The year the degrees were awarded}
  \item{\code{count}}{The number of degrees awarded}
-}}
+}
+}
 \source{
-"Statistics and Biostatistics Degree Data.", \url{www.amstat.org/asa/education/Statistics-and-Biostatistics-Degree-Data.aspx}
+"Statistics and Biostatistics Degree Data.", \url{https://www.amstat.org/education/statistics-and-biostatistics-degree-data}
 }
 \usage{
 degreesawarded
 }
 \description{
-This dataset contains the number of degrees awarded per year. It's based on data from the National Center for Education Statistics as retrieved by Steve Pierson. See  \url{http://community.amstat.org/blogs/steve-pierson/2014/07/28/categorization-of-statistics-degrees} for more information.
+This dataset contains the number of degrees awarded per year. It's based on data from the National Center for Education Statistics as retrieved by Steve Pierson. See  \url{https://community.amstat.org/blogs/steve-pierson/2014/07/28/categorization-of-statistics-degrees} for more information.
 }
 \examples{
 \dontrun{
